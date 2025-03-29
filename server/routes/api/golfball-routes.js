@@ -1,21 +1,66 @@
 // Declare Lib & Model
-const router = require('express').Router();
-const Golfballs = require('../../models/golfballs');
+const ROUTER = require('express').Router();
+const GOLFBALLS = require('../../models/golfballs');
 
 // GET
-router.get('/', async (req, res) => {
-  res.status(200).json('This was successful!');
+ROUTER.get('/', async (req, res) => {
+  res.status(200).json('Request was successful!');
 });
 
-router.post('/create', async (req, res) => {
-  console.log(req.body);
+ROUTER.get('/:id', async (req, res) => {
+  const ID = req.params.id;
+  const BALL = await GOLFBALLS.findOne({ _id: ID });
 
-  res.status(200).json(req.body);
+  res.status(200).json(BALL);
 });
 
-router.put('/update/:id', async (req, res) => {
-  res.status(200).json('ID Sent ' + req.params.id);
+// CREATE
+ROUTER.post('/create', async (req, res) => {
+  // ADD AUTH
+
+  try {
+    const NEW_BALL = req.body;
+    const CREATE_RES = await GOLFBALLS.create(NEW_BALL);
+
+    res.status(200).json(CREATE_RES);
+  } catch (error) {
+    console.error(error);
+    res.status(500).json('Cannot CREATE new ball.');
+  }
 });
 
-module.exports = router;
+// UPDATE
+ROUTER.put('/update/:id', async (req, res) => {
+  // ADD AUTH
+  try {
+    const ID = req.params.id;
+    const UPDATED_BALL = req.body;
+
+    const UPDATE_RESPONSE = await GOLFBALLS.findOneAndUpdate(
+      { _id: ID },
+      UPDATED_BALL,
+      {
+        new: true,
+      },
+    );
+
+    res.status(200).json(UPDATE_RESPONSE);
+  } catch (error) {
+    console.error(error);
+    res.status(500).json('Cannot UPDATE new ball.');
+  }
+});
+
+// DELETE
+ROUTER.delete('/delete/:id', async (req, res) => {
+  const ID = req.params.id;
+
+  const DELETE_RESPONSE = await GOLFBALLS.deleteOne({ _id: ID });
+
+  DELETE_RESPONSE.deletedCount === 0
+    ? res.status(500).json('Document NOT Deleted')
+    : res.status(200).json('Deleted Document');
+});
+
+module.exports = ROUTER;
 
