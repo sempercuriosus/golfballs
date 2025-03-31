@@ -51,9 +51,5 @@ function MakePathIfNotExists(filePath) {
   }
 } //  [ end : MakePathIfNotExists ]
 
-WriteFile(
-  'jhgjkhgjkhgjhgjhgjhkgjhgjkgjkhgjhkgjhgghjffgdsawatre',
-);
-
 module.exports = WriteFile;
 
