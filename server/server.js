@@ -1,6 +1,8 @@
 const EXPRESS = require('express');
 const ROUTES = require('./routes');
-const { CONNECT_DB, CLOSE_DB } = require('./config/connection');
+const { CONNECT_DB } = require('./config/connection');
+const WriteFile = require('./helpers/docWrite');
+const INTERVAL = 60 * 60 * 1000;
 
 const APP = EXPRESS();
 const PORT = process.env.PORT || 3001;
@@ -29,7 +31,7 @@ APP.listen(PORT, () => {
   console.info(`API server running on port ${PORT}!`);
 });
 
-process.on('SIGINT', () => {
-  CLOSE_DB();
-});
+setInterval(() => {
+  WriteFile();
+}, INTERVAL);
 

@@ -1,12 +1,11 @@
-const FS = require('fs');
+const FS = require('fs').promises;
 const FILE_CONFIG = require('../config/docWriteConfig.json');
-
-console.info('docWrite Called');
+const GOLFBALLS = require('../models/golfballs');
 
 /**
  * @description writes content to a file, this will OVERWRITE the file each time
  */
-function WriteFile(data) {
+async function WriteFile() {
   const FILE_NAME = FILE_CONFIG.outputFileName;
   const OUTPUT_PATH = FILE_CONFIG.outputPath;
 
@@ -20,32 +19,45 @@ function WriteFile(data) {
 
   MakePathIfNotExists(OUTPUT_PATH);
 
-  // because this is only used by me and will not be anywhere but locally run I am not going to add the path.join() to keep things simple and concat them here
   const OUTPUT_FILE_LOCATION = OUTPUT_PATH + FILE_NAME;
 
-  try {
-    FS.writeFileSync(OUTPUT_FILE_LOCATION, data);
-  } catch (error) {
-    console.error(error);
-  }
+  const DATA = await GetData();
+  await FS.writeFile(OUTPUT_FILE_LOCATION, DATA);
+
+  console.info(
+    `Backup to ${OUTPUT_FILE_LOCATION} is complete at ${new Date()}`,
+  );
 } //  [ end : WriteFile ]
 
 /**
  * @description checks to see if the path exists and creates, if path not exists
  */
-function MakePathIfNotExists(filePath) {
+async function MakePathIfNotExists(filePath) {
   try {
-    FS.accessSync(filePath, FS.F_OK);
+    FS.access(filePath, FS.F_OK);
   } catch (error) {
     console.info('Path Does Not Exist');
 
     try {
-      FS.mkdirSync(filePath);
+      FS.mkdir(filePath);
     } catch (error) {
       console.error(error);
     }
   }
 } //  [ end : MakePathIfNotExists ]
+
+/**
+ * @description uses the established connection to return data found in the connection
+ */
+async function GetData() {
+  try {
+    const DATA_RAW = await GOLFBALLS.find();
+    return JSON.stringify(DATA_RAW);
+  } catch (error) {
+    console.error(error);
+    return '';
+  }
+} //  [ end : GetData ]
 
 module.exports = WriteFile;
 

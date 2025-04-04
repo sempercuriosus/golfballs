@@ -143,3 +143,5 @@ dist
 .yarn/install-state.gz
 .pnp.*
 server/ballsBackup/file-out.txt
+server/ballsBackup/ball-backup.json
+server/ballsBackup/ball-backup.txt
