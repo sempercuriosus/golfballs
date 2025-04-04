@@ -1,6 +1,5 @@
 // Declare Lib & Model
 const ROUTER = require('express').Router();
-const GOLFBALLS = require('../../models/golfballs');
 const GOLFBALL_CONTROLLER = require('../../controllers/golfball-controllers');
 
 // GET
