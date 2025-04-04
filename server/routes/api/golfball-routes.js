@@ -1,82 +1,30 @@
 // Declare Lib & Model
 const ROUTER = require('express').Router();
 const GOLFBALLS = require('../../models/golfballs');
+const GOLFBALL_CONTROLLER = require('../../controllers/golfball-controllers');
 
 // GET
 ROUTER.get('/', async (req, res) => {
-  try {
-    const BALLS = await GOLFBALLS.find();
-    res.status(200).json(BALLS);
-  } catch (error) {
-    console.error(error);
-
-    res.status(500).json('All Ball Error');
-  }
+  GOLFBALL_CONTROLLER.getAllBalls(res);
 });
 
 ROUTER.get('/:id', async (req, res) => {
-  try {
-    const ID = req.params.id;
-    const BALL = await GOLFBALLS.findOne({ _id: ID });
-
-    res.status(200).json(BALL);
-  } catch (error) {
-    console.error(error);
-
-    res.status(500).json('One Ball Error');
-  }
+  GOLFBALL_CONTROLLER.getOneBall(req, res);
 });
 
 // CREATE
 ROUTER.post('/create', async (req, res) => {
-  try {
-    const NEW_BALL = req.body;
-    const CREATE_RES = await GOLFBALLS.create(NEW_BALL);
-
-    res.status(200).json(CREATE_RES);
-  } catch (error) {
-    console.error(error);
-    res.status(500).json('Cannot CREATE new ball.');
-  }
+  GOLFBALL_CONTROLLER.createNewBall(req, res);
 });
 
 // UPDATE
 ROUTER.put('/update/:id', async (req, res) => {
-  try {
-    const ID = req.params.id;
-    const UPDATED_BALL = req.body;
-
-    const UPDATE_RESPONSE = await GOLFBALLS.findOneAndUpdate(
-      { _id: ID },
-      UPDATED_BALL,
-      {
-        new: true,
-      },
-    );
-
-    res.status(200).json(UPDATE_RESPONSE);
-  } catch (error) {
-    console.error(error);
-    res.status(500).json('Cannot UPDATE new ball');
-  }
+  GOLFBALL_CONTROLLER.updateExistingBall(req, res);
 });
 
 // DELETE
 ROUTER.delete('/delete/:id', async (req, res) => {
-  try {
-    const ID = req.params.id;
-
-    const DELETE_RESPONSE = await GOLFBALLS.deleteOne({
-      _id: ID,
-    });
-
-    DELETE_RESPONSE.deletedCount === 0
-      ? res.status(404).json('Could not locate document')
-      : res.status(200).json('Deleted Document');
-  } catch (error) {
-    console.error(error);
-    res.status(500).json('Document NOT Deleted');
-  }
+  GOLFBALL_CONTROLLER.deleteExistingBall(req, res);
 });
 
 module.exports = ROUTER;
