@@ -1,12 +1,12 @@
 require('dotenv').config();
-const MONGOOSE = require('mongoose');
-const DB = require('../config/connection');
+const mongoose = require('mongoose');
+const DB = mongoose.connection;
 
 const CONNECTION_STRING =
   process.env.CONNECTION_STRING + process.env.DB_NAME;
 
 try {
-  MONGOOSE.connect(CONNECTION_STRING || '');
+  mongoose.connect(CONNECTION_STRING || '');
 
   //Golfballs
   console.info('- GOLFBALLS -');
