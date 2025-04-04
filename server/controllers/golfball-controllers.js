@@ -18,7 +18,9 @@ async function getOneBall(req, res) {
     const ID = req.params.id;
     const BALL = await GOLFBALLS.findOne({ _id: ID });
 
-    res.status(200).json(BALL);
+    BALL === null
+      ? res.status(404).json('Ball was not found')
+      : res.status(200).json(BALL);
   } catch (error) {
     console.error(error);
 
@@ -40,7 +42,6 @@ async function createNewBall(req, res) {
 }
 
 // UPDATE BALL DATA
-
 async function updateExistingBall(req, res) {
   try {
     const ID = req.params.id;
@@ -54,7 +55,9 @@ async function updateExistingBall(req, res) {
       },
     );
 
-    res.status(200).json(UPDATE_RESPONSE);
+    UPDATE_RESPONSE === null
+      ? res.status(404).json('Ball was not found')
+      : res.status(200).json(UPDATE_RESPONSE);
   } catch (error) {
     console.error(error);
     res.status(500).json('Cannot UPDATE new ball');
