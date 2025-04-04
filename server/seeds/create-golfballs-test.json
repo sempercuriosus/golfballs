@@ -1,0 +1,23 @@
+[
+  {
+    "manufacturer": "Test Ball",
+    "type": "Test Flight 4",
+    "subtype": "",
+    "color": "Red/Yellow",
+    "cost": 2
+  },
+  {
+    "manufacturer": "Test Ball 2",
+    "type": "Test Flight 2",
+    "subtype": "",
+    "color": "Yellow",
+    "cost": 1
+  },
+  {
+    "manufacturer": "Test Ball 3",
+    "type": "Test Flight 9",
+    "subtype": "",
+    "color": "Red",
+    "cost": 1
+  }
+]
