@@ -23,8 +23,6 @@ function WriteFile(data) {
   // because this is only used by me and will not be anywhere but locally run I am not going to add the path.join() to keep things simple and concat them here
   const OUTPUT_FILE_LOCATION = OUTPUT_PATH + FILE_NAME;
 
-  console.log(OUTPUT_FILE_LOCATION, data);
-
   try {
     FS.writeFileSync(OUTPUT_FILE_LOCATION, data);
   } catch (error) {
@@ -38,8 +36,6 @@ function WriteFile(data) {
 function MakePathIfNotExists(filePath) {
   try {
     FS.accessSync(filePath, FS.F_OK);
-
-    console.info('Path Exists');
   } catch (error) {
     console.info('Path Does Not Exist');
 
