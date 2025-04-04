@@ -4,8 +4,8 @@
         "number": 1,
         "color": "white",
         "color2": "",
-        "subtype": "extra soft",
-        "subtype2": "",
+        "type": "extra soft",
+        "type2": "",
         "imageDescription": ""
     },
     {
@@ -13,8 +13,8 @@
         "number": 1,
         "color": "white",
         "color2": "",
-        "subtype": "tour b rx",
-        "subtype2": "",
+        "type": "tour b rx",
+        "type2": "",
         "imageDescription": ""
     },
     {
@@ -22,8 +22,8 @@
         "number": 1,
         "color": "white",
         "color2": "",
-        "subtype": "tour b rx",
-        "subtype2": "",
+        "type": "tour b rx",
+        "type2": "",
         "imageDescription": ""
     },
     {
@@ -31,8 +31,8 @@
         "number": 1,
         "color": "white",
         "color2": "",
-        "subtype": "e6 lady",
-        "subtype2": "",
+        "type": "e6 lady",
+        "type2": "",
         "imageDescription": ""
     },
     {
@@ -40,8 +40,8 @@
         "number": 1,
         "color": "white",
         "color2": "",
-        "subtype": "e6",
-        "subtype2": "",
+        "type": "e6",
+        "type2": "",
         "imageDescription": ""
     },
     {
@@ -49,8 +49,8 @@
         "number": 1,
         "color": "white",
         "color2": "",
-        "subtype": "e6",
-        "subtype2": "",
+        "type": "e6",
+        "type2": "",
         "imageDescription": "48 States as US Flag"
     },
     {
@@ -58,8 +58,8 @@
         "number": 1,
         "color": "white",
         "color2": "",
-        "subtype": "tour b330s",
-        "subtype2": "",
+        "type": "tour b330s",
+        "type2": "",
         "imageDescription": ""
     },
     {
@@ -67,8 +67,8 @@
         "number": 2,
         "color": "white",
         "color2": "",
-        "subtype": "tour b rx",
-        "subtype2": "",
+        "type": "tour b rx",
+        "type2": "",
         "imageDescription": ""
     },
     {
@@ -76,8 +76,8 @@
         "number": 3,
         "color": "white",
         "color2": "",
-        "subtype": "e16",
-        "subtype2": "",
+        "type": "e16",
+        "type2": "",
         "imageDescription": ""
     },
     {
@@ -85,8 +85,8 @@
         "number": 3,
         "color": "white",
         "color2": "",
-        "subtype": "tour b330",
-        "subtype2": "",
+        "type": "tour b330",
+        "type2": "",
         "imageDescription": ""
     },
     {
@@ -94,8 +94,8 @@
         "number": 4,
         "color": "white",
         "color2": "",
-        "subtype": "e6",
-        "subtype2": "",
+        "type": "e6",
+        "type2": "",
         "imageDescription": ""
     },
     {
@@ -103,8 +103,8 @@
         "number": 4,
         "color": "white",
         "color2": "",
-        "subtype": "tour BX",
-        "subtype2": "",
+        "type": "tour BX",
+        "type2": "",
         "imageDescription": ""
     },
     {
@@ -112,8 +112,8 @@
         "number": 4,
         "color": "white",
         "color2": "",
-        "subtype": "tour b rx",
-        "subtype2": "",
+        "type": "tour b rx",
+        "type2": "",
         "imageDescription": "MARTINI GLASS - HAND DRAWN"
     },
     {
@@ -121,8 +121,8 @@
         "number": 2,
         "color": "yellow",
         "color2": "",
-        "subtype": "",
-        "subtype2": "",
+        "type": "",
+        "type2": "",
         "imageDescription": ""
     },
     {
@@ -130,8 +130,8 @@
         "number": 3,
         "color": "yellow",
         "color2": "",
-        "subtype": "e6 soft",
-        "subtype2": "",
+        "type": "e6 soft",
+        "type2": "",
         "imageDescription": ""
     },
     {
@@ -139,8 +139,8 @@
         "number": 50,
         "color": "yellow",
         "color2": "",
-        "subtype": "fifty elite",
-        "subtype2": "",
+        "type": "fifty elite",
+        "type2": "",
         "imageDescription": ""
     },
     {
@@ -148,8 +148,8 @@
         "number": "",
         "color": "white",
         "color2": "",
-        "subtype": "premium",
-        "subtype2": "A3",
+        "type": "premium",
+        "type2": "A3",
         "imageDescription": ""
     },
     {
@@ -157,8 +157,8 @@
         "number": 2,
         "color": "white",
         "color2": "",
-        "subtype": "ultra 500",
-        "subtype2": "",
+        "type": "ultra 500",
+        "type2": "",
         "imageDescription": ""
     },
     {
@@ -166,8 +166,8 @@
         "number": 3,
         "color": "green",
         "color2": "",
-        "subtype": "duo optix",
-        "subtype2": "",
+        "type": "duo optix",
+        "type2": "",
         "imageDescription": ""
     },
     {
@@ -175,8 +175,8 @@
         "number": 4,
         "color": "yellow",
         "color2": "",
-        "subtype": "",
-        "subtype2": "",
+        "type": "",
+        "type2": "",
         "imageDescription": ""
     },
     {
@@ -184,8 +184,8 @@
         "number": 4,
         "color": "red",
         "color2": "",
-        "subtype": "duo optix",
-        "subtype2": "",
+        "type": "duo optix",
+        "type2": "",
         "imageDescription": ""
     },
     {
@@ -193,8 +193,8 @@
         "number": 4,
         "color": "white",
         "color2": "",
-        "subtype": "",
-        "subtype2": "",
+        "type": "",
+        "type2": "",
         "imageDescription": ""
     },
     {
@@ -202,8 +202,8 @@
         "number": 4,
         "color": "white",
         "color2": "",
-        "subtype": "ultra",
-        "subtype2": "Wilson 432",
+        "type": "ultra",
+        "type2": "Wilson 432",
         "imageDescription": ""
     },
     {
@@ -211,8 +211,8 @@
         "number": 2,
         "color": "blue",
         "color2": "",
-        "subtype": "chaos",
-        "subtype2": "",
+        "type": "chaos",
+        "type2": "",
         "imageDescription": ""
     },
     {
@@ -220,8 +220,8 @@
         "number": 2,
         "color": "white",
         "color2": "",
-        "subtype": "chaos",
-        "subtype2": "",
+        "type": "chaos",
+        "type2": "",
         "imageDescription": ""
     },
     {
@@ -229,8 +229,8 @@
         "number": 4,
         "color": "Pink",
         "color2": "",
-        "subtype": "Low Compression",
-        "subtype2": "",
+        "type": "Low Compression",
+        "type2": "",
         "imageDescription": ""
     },
     {
@@ -238,8 +238,8 @@
         "number": 2,
         "color": "white",
         "color2": "",
-        "subtype": "XTREME",
-        "subtype2": "",
+        "type": "XTREME",
+        "type2": "",
         "imageDescription": ""
     },
     {
@@ -247,8 +247,8 @@
         "number": 22,
         "color": "white",
         "color2": "yellow",
-        "subtype": "Z STAR XV",
-        "subtype2": "",
+        "type": "Z STAR XV",
+        "type2": "",
         "imageDescription": ""
     },
     {
@@ -256,8 +256,8 @@
         "number": 1,
         "color": "white",
         "color2": "",
-        "subtype": "soft feel",
-        "subtype2": "",
+        "type": "soft feel",
+        "type2": "",
         "imageDescription": ""
     },
     {
@@ -265,8 +265,8 @@
         "number": 1,
         "color": "white",
         "color2": "",
-        "subtype": "soft feel",
-        "subtype2": "",
+        "type": "soft feel",
+        "type2": "",
         "imageDescription": ""
     },
     {
@@ -274,8 +274,8 @@
         "number": 1,
         "color": "white",
         "color2": "",
-        "subtype": "sf lady",
-        "subtype2": "",
+        "type": "sf lady",
+        "type2": "",
         "imageDescription": ""
     },
     {
@@ -283,8 +283,8 @@
         "number": 1,
         "color": "white",
         "color2": "",
-        "subtype": "soft feel",
-        "subtype2": "",
+        "type": "soft feel",
+        "type2": "",
         "imageDescription": "state bank of viroqua"
     },
     {
@@ -292,8 +292,8 @@
         "number": 1,
         "color": "yellow",
         "color2": "orange",
-        "subtype": "q star tour",
-        "subtype2": "",
+        "type": "q star tour",
+        "type2": "",
         "imageDescription": ""
     },
     {
@@ -301,8 +301,8 @@
         "number": 1,
         "color": "yellow",
         "color2": "",
-        "subtype": "soft feel",
-        "subtype2": "",
+        "type": "soft feel",
+        "type2": "",
         "imageDescription": ""
     },
     {
@@ -310,8 +310,8 @@
         "number": 2,
         "color": "red",
         "color2": "yellow",
-        "subtype": "q star tour",
-        "subtype2": "",
+        "type": "q star tour",
+        "type2": "",
         "imageDescription": ""
     },
     {
@@ -319,8 +319,8 @@
         "number": 3,
         "color": "green",
         "color2": "",
-        "subtype": "soft feel",
-        "subtype2": "",
+        "type": "soft feel",
+        "type2": "",
         "imageDescription": ""
     },
     {
@@ -328,8 +328,8 @@
         "number": 3,
         "color": "yellow",
         "color2": "",
-        "subtype": "z star",
-        "subtype2": "",
+        "type": "z star",
+        "type2": "",
         "imageDescription": ""
     },
     {
@@ -337,8 +337,8 @@
         "number": 4,
         "color": "red",
         "color2": "",
-        "subtype": "soft feel",
-        "subtype2": "",
+        "type": "soft feel",
+        "type2": "",
         "imageDescription": "Arrows around an 'H'"
     },
     {
@@ -346,8 +346,8 @@
         "number": 4,
         "color": "orange",
         "color2": "",
-        "subtype": "soft feel",
-        "subtype2": "",
+        "type": "soft feel",
+        "type2": "",
         "imageDescription": ""
     },
     {
@@ -355,8 +355,8 @@
         "number": 4,
         "color": "white",
         "color2": "",
-        "subtype": "q star tour",
-        "subtype2": "",
+        "type": "q star tour",
+        "type2": "",
         "imageDescription": ""
     },
     {
@@ -364,8 +364,8 @@
         "number": 3,
         "color": "white",
         "color2": "",
-        "subtype": "Marathon",
-        "subtype2": "rb 566",
+        "type": "Marathon",
+        "type2": "rb 566",
         "imageDescription": ""
     },
     {
@@ -373,8 +373,8 @@
         "number": 4,
         "color": "white",
         "color2": "",
-        "subtype": "Marathon",
-        "subtype2": "",
+        "type": "Marathon",
+        "type2": "",
         "imageDescription": ""
     },
     {
@@ -382,8 +382,8 @@
         "number": 4,
         "color": "white",
         "color2": "",
-        "subtype": "Marathon",
-        "subtype2": "rb tour x",
+        "type": "Marathon",
+        "type2": "rb tour x",
         "imageDescription": ""
     },
     {
@@ -391,8 +391,8 @@
         "number": 4,
         "color": "white",
         "color2": "",
-        "subtype": "Marathon",
-        "subtype2": "rb tour x",
+        "type": "Marathon",
+        "type2": "rb tour x",
         "imageDescription": ""
     },
     {
@@ -400,8 +400,8 @@
         "number": 1,
         "color": "",
         "color2": "",
-        "subtype": "",
-        "subtype2": "",
+        "type": "",
+        "type2": "",
         "imageDescription": "Life is Good Logo"
     },
     {
@@ -409,8 +409,8 @@
         "number": 1,
         "color": "white",
         "color2": "",
-        "subtype": "aviator distance",
-        "subtype2": "",
+        "type": "aviator distance",
+        "type2": "",
         "imageDescription": ""
     },
     {
@@ -418,8 +418,8 @@
         "number": 2,
         "color": "white",
         "color2": "",
-        "subtype": "aviator distance",
-        "subtype2": "",
+        "type": "aviator distance",
+        "type2": "",
         "imageDescription": ""
     },
     {
@@ -427,8 +427,8 @@
         "number": "00",
         "color": "white",
         "color2": "",
-        "subtype": "laddie x",
-        "subtype2": "",
+        "type": "laddie x",
+        "type2": "",
         "imageDescription": ""
     },
     {
@@ -436,8 +436,8 @@
         "number": 11,
         "color": "white",
         "color2": "",
-        "subtype": "laddie x",
-        "subtype2": "",
+        "type": "laddie x",
+        "type2": "",
         "imageDescription": ""
     },
     {
@@ -445,8 +445,8 @@
         "number": 22,
         "color": "white",
         "color2": "",
-        "subtype": "laddie x",
-        "subtype2": "",
+        "type": "laddie x",
+        "type2": "",
         "imageDescription": ""
     },
     {
@@ -454,8 +454,8 @@
         "number": 33,
         "color": "white",
         "color2": "",
-        "subtype": "laddie x",
-        "subtype2": "",
+        "type": "laddie x",
+        "type2": "",
         "imageDescription": ""
     },
     {
@@ -463,8 +463,8 @@
         "number": 33,
         "color": "white",
         "color2": "",
-        "subtype": "laddie x",
-        "subtype2": "",
+        "type": "laddie x",
+        "type2": "",
         "imageDescription": ""
     },
     {
@@ -472,8 +472,8 @@
         "number": 1,
         "color": "yellow",
         "color2": "",
-        "subtype": "pd long",
-        "subtype2": "",
+        "type": "pd long",
+        "type2": "",
         "imageDescription": ""
     },
     {
@@ -481,8 +481,8 @@
         "number": 2,
         "color": "white",
         "color2": "",
-        "subtype": "pd soft",
-        "subtype2": "",
+        "type": "pd soft",
+        "type2": "",
         "imageDescription": "City of Tega Cay Logo"
     },
     {
@@ -490,8 +490,8 @@
         "number": 3,
         "color": "white",
         "color2": "",
-        "subtype": "one vapor",
-        "subtype2": "",
+        "type": "one vapor",
+        "type2": "",
         "imageDescription": ""
     },
     {
@@ -499,8 +499,8 @@
         "number": 4,
         "color": "white",
         "color2": "",
-        "subtype": "ignite",
-        "subtype2": "",
+        "type": "ignite",
+        "type2": "",
         "imageDescription": "red dots"
     },
     {
@@ -508,8 +508,8 @@
         "number": 1,
         "color": "yellow",
         "color2": "",
-        "subtype": "mojo",
-        "subtype2": "",
+        "type": "mojo",
+        "type2": "",
         "imageDescription": ""
     },
     {
@@ -517,8 +517,8 @@
         "number": 2,
         "color": "white",
         "color2": "",
-        "subtype": "mojo",
-        "subtype2": "",
+        "type": "mojo",
+        "type2": "",
         "imageDescription": ""
     },
     {
@@ -526,8 +526,8 @@
         "number": 1,
         "color": "white",
         "color2": "",
-        "subtype": "ultimate distance",
-        "subtype2": "",
+        "type": "ultimate distance",
+        "type2": "",
         "imageDescription": ""
     },
     {
@@ -535,8 +535,8 @@
         "number": "004",
         "color": "white",
         "color2": "",
-        "subtype": "crossfire",
-        "subtype2": "",
+        "type": "crossfire",
+        "type2": "",
         "imageDescription": ""
     },
     {
@@ -544,8 +544,8 @@
         "number": 2,
         "color": "white",
         "color2": "",
-        "subtype": "ultimate distance",
-        "subtype2": "",
+        "type": "ultimate distance",
+        "type2": "",
         "imageDescription": ""
     },
     {
@@ -553,8 +553,8 @@
         "number": 3,
         "color": "white",
         "color2": "",
-        "subtype": "ultimate distance",
-        "subtype2": "",
+        "type": "ultimate distance",
+        "type2": "",
         "imageDescription": ""
     },
     {
@@ -562,8 +562,8 @@
         "number": 3,
         "color": "white",
         "color2": "",
-        "subtype": "ultimate distance",
-        "subtype2": "",
+        "type": "ultimate distance",
+        "type2": "",
         "imageDescription": ""
     },
     {
@@ -571,8 +571,8 @@
         "number": 3,
         "color": "red",
         "color2": "",
-        "subtype": "ultimate distance soft",
-        "subtype2": "",
+        "type": "ultimate distance soft",
+        "type2": "",
         "imageDescription": ""
     },
     {
@@ -580,8 +580,8 @@
         "number": 1,
         "color": "green",
         "color2": "",
-        "subtype": "pro plus",
-        "subtype2": "",
+        "type": "pro plus",
+        "type2": "",
         "imageDescription": ""
     },
     {
@@ -589,8 +589,8 @@
         "number": 1,
         "color": "white",
         "color2": "",
-        "subtype": "pro plus",
-        "subtype2": "",
+        "type": "pro plus",
+        "type2": "",
         "imageDescription": ""
     },
     {
@@ -598,8 +598,8 @@
         "number": 1,
         "color": "green",
         "color2": "",
-        "subtype": "pro air",
-        "subtype2": "",
+        "type": "pro air",
+        "type2": "",
         "imageDescription": "CJB"
     },
     {
@@ -607,8 +607,8 @@
         "number": 2,
         "color": "white",
         "color2": "",
-        "subtype": "pro plus",
-        "subtype2": "",
+        "type": "pro plus",
+        "type2": "",
         "imageDescription": ""
     },
     {
@@ -616,8 +616,8 @@
         "number": 2,
         "color": "white",
         "color2": "",
-        "subtype": "pro plus",
-        "subtype2": "",
+        "type": "pro plus",
+        "type2": "",
         "imageDescription": ""
     },
     {
@@ -625,8 +625,8 @@
         "number": 2,
         "color": "white",
         "color2": "",
-        "subtype": "tour",
-        "subtype2": "",
+        "type": "tour",
+        "type2": "",
         "imageDescription": ""
     },
     {
@@ -634,8 +634,8 @@
         "number": 3,
         "color": "white",
         "color2": "",
-        "subtype": "drive",
-        "subtype2": "",
+        "type": "drive",
+        "type2": "",
         "imageDescription": "expedient"
     },
     {
@@ -643,8 +643,8 @@
         "number": 4,
         "color": "white",
         "color2": "orange",
-        "subtype": "pro soft",
-        "subtype2": "",
+        "type": "pro soft",
+        "type2": "",
         "imageDescription": ""
     },
     {
@@ -652,8 +652,8 @@
         "number": 4,
         "color": "white",
         "color2": "",
-        "subtype": "pro plus",
-        "subtype2": "",
+        "type": "pro plus",
+        "type2": "",
         "imageDescription": "STY"
     },
     {
@@ -661,8 +661,8 @@
         "number": 4,
         "color": "white",
         "color2": "",
-        "subtype": "drive",
-        "subtype2": "",
+        "type": "drive",
+        "type2": "",
         "imageDescription": "'Achieve Balance' with some rocks"
     },
     {
@@ -670,8 +670,8 @@
         "number": 4,
         "color": "white",
         "color2": "",
-        "subtype": "drive",
-        "subtype2": "",
+        "type": "drive",
+        "type2": "",
         "imageDescription": ""
     },
     {
@@ -679,8 +679,8 @@
         "number": 4,
         "color": "green",
         "color2": "",
-        "subtype": "pro soft",
-        "subtype2": "",
+        "type": "pro soft",
+        "type2": "",
         "imageDescription": ""
     },
     {
@@ -688,8 +688,8 @@
         "number": 1,
         "color": "yellow",
         "color2": "",
-        "subtype": "performance +",
-        "subtype2": "",
+        "type": "performance +",
+        "type2": "",
         "imageDescription": ""
     },
     {
@@ -697,8 +697,8 @@
         "number": 2,
         "color": "white",
         "color2": "",
-        "subtype": "performance +",
-        "subtype2": "",
+        "type": "performance +",
+        "type2": "",
         "imageDescription": ""
     },
     {
@@ -706,8 +706,8 @@
         "number": 3,
         "color": "white",
         "color2": "",
-        "subtype": "performance +",
-        "subtype2": "",
+        "type": "performance +",
+        "type2": "",
         "imageDescription": ""
     },
     {
@@ -715,8 +715,8 @@
         "number": 3,
         "color": "white",
         "color2": "",
-        "subtype": "performance +",
-        "subtype2": "",
+        "type": "performance +",
+        "type2": "",
         "imageDescription": ""
     },
     {
@@ -724,8 +724,8 @@
         "number": 3,
         "color": "white",
         "color2": "",
-        "subtype": "performance +",
-        "subtype2": "",
+        "type": "performance +",
+        "type2": "",
         "imageDescription": ""
     },
     {
@@ -733,8 +733,8 @@
         "number": 3,
         "color": "white",
         "color2": "",
-        "subtype": "performance +",
-        "subtype2": "",
+        "type": "performance +",
+        "type2": "",
         "imageDescription": ""
     },
     {
@@ -742,8 +742,8 @@
         "number": 3,
         "color": "yellow",
         "color2": "",
-        "subtype": "performance +",
-        "subtype2": "",
+        "type": "performance +",
+        "type2": "",
         "imageDescription": ""
     },
     {
@@ -751,8 +751,8 @@
         "number": 2,
         "color": "white",
         "color2": "",
-        "subtype": "performance +",
-        "subtype2": "",
+        "type": "performance +",
+        "type2": "",
         "imageDescription": ""
     },
     {
@@ -760,8 +760,8 @@
         "number": 2,
         "color": "white",
         "color2": "",
-        "subtype": "performance +",
-        "subtype2": "",
+        "type": "performance +",
+        "type2": "",
         "imageDescription": ""
     },
     {
@@ -769,8 +769,8 @@
         "number": 2,
         "color": "white",
         "color2": "",
-        "subtype": "performance +",
-        "subtype2": "",
+        "type": "performance +",
+        "type2": "",
         "imageDescription": "Flamingo"
     },
     {
@@ -778,8 +778,8 @@
         "number": 4,
         "color": "white",
         "color2": "",
-        "subtype": "performance +",
-        "subtype2": "",
+        "type": "performance +",
+        "type2": "",
         "imageDescription": ""
     },
     {
@@ -787,8 +787,8 @@
         "number": 1,
         "color": "white",
         "color2": "",
-        "subtype": "ultimate distance",
-        "subtype2": "",
+        "type": "ultimate distance",
+        "type2": "",
         "imageDescription": ""
     },
     {
@@ -796,8 +796,8 @@
         "number": 1,
         "color": "white",
         "color2": "",
-        "subtype": "ultimate distance",
-        "subtype2": "",
+        "type": "ultimate distance",
+        "type2": "",
         "imageDescription": ""
     },
     {
@@ -805,8 +805,8 @@
         "number": 1,
         "color": "yellow",
         "color2": "",
-        "subtype": "ultimate distance",
-        "subtype2": "",
+        "type": "ultimate distance",
+        "type2": "",
         "imageDescription": ""
     },
     {
@@ -814,8 +814,8 @@
         "number": 2,
         "color": "orange",
         "color2": "",
-        "subtype": "ultimate distance",
-        "subtype2": "",
+        "type": "ultimate distance",
+        "type2": "",
         "imageDescription": ""
     },
     {
@@ -823,8 +823,8 @@
         "number": 3,
         "color": "orange",
         "color2": "",
-        "subtype": "ultimate distance",
-        "subtype2": "",
+        "type": "ultimate distance",
+        "type2": "",
         "imageDescription": ""
     },
     {
@@ -832,8 +832,8 @@
         "number": 3,
         "color": "white",
         "color2": "",
-        "subtype": "ultimate distance",
-        "subtype2": "",
+        "type": "ultimate distance",
+        "type2": "",
         "imageDescription": ""
     },
     {
@@ -841,8 +841,8 @@
         "number": 4,
         "color": "orange",
         "color2": "",
-        "subtype": "ultimate distance",
-        "subtype2": "",
+        "type": "ultimate distance",
+        "type2": "",
         "imageDescription": ""
     },
     {
@@ -850,8 +850,8 @@
         "number": 0,
         "color": "white",
         "color2": "",
-        "subtype": "infinity - absolutely straight",
-        "subtype2": "",
+        "type": "infinity - absolutely straight",
+        "type2": "",
         "imageDescription": ""
     },
     {
@@ -859,8 +859,8 @@
         "number": 1,
         "color": "white",
         "color2": "",
-        "subtype": "xl distance",
-        "subtype2": "",
+        "type": "xl distance",
+        "type2": "",
         "imageDescription": ""
     },
     {
@@ -868,8 +868,8 @@
         "number": 2,
         "color": "white",
         "color2": "",
-        "subtype": "gamer soft",
-        "subtype2": "",
+        "type": "gamer soft",
+        "type2": "",
         "imageDescription": ""
     },
     {
@@ -877,8 +877,8 @@
         "number": 3,
         "color": "white",
         "color2": "",
-        "subtype": "xl 2000",
-        "subtype2": "exceptional spin",
+        "type": "xl 2000",
+        "type2": "exceptional spin",
         "imageDescription": ""
     },
     {
@@ -886,8 +886,8 @@
         "number": 3,
         "color": "white",
         "color2": "",
-        "subtype": "xl ii",
-        "subtype2": "spalding",
+        "type": "xl ii",
+        "type2": "spalding",
         "imageDescription": "Double Power Concentrated Detergent SURF"
     },
     {
@@ -895,8 +895,8 @@
         "number": 4,
         "color": "white",
         "color2": "",
-        "subtype": "xl",
-        "subtype2": "regular trajectory",
+        "type": "xl",
+        "type2": "regular trajectory",
         "imageDescription": ""
     },
     {
@@ -904,8 +904,8 @@
         "number": 4,
         "color": "white",
         "color2": "",
-        "subtype": "xl ii",
-        "subtype2": "spalding",
+        "type": "xl ii",
+        "type2": "spalding",
         "imageDescription": ""
     },
     {
@@ -913,8 +913,8 @@
         "number": 4,
         "color": "white",
         "color2": "",
-        "subtype": "xl distance",
-        "subtype2": "",
+        "type": "xl distance",
+        "type2": "",
         "imageDescription": "rock hands"
     },
     {
@@ -922,8 +922,8 @@
         "number": 5,
         "color": "yellow",
         "color2": "",
-        "subtype": "xl distance",
-        "subtype2": "",
+        "type": "xl distance",
+        "type2": "",
         "imageDescription": ""
     },
     {
@@ -931,8 +931,8 @@
         "number": 0,
         "color": "white",
         "color2": "",
-        "subtype": "Noodle",
-        "subtype2": "long & soft",
+        "type": "Noodle",
+        "type2": "long & soft",
         "imageDescription": ""
     },
     {
@@ -940,8 +940,8 @@
         "number": 1,
         "color": "white",
         "color2": "",
-        "subtype": "tour x cg",
-        "subtype2": "",
+        "type": "tour x cg",
+        "type2": "",
         "imageDescription": ""
     },
     {
@@ -949,8 +949,8 @@
         "number": 2,
         "color": "white",
         "color2": "",
-        "subtype": "Noodle",
-        "subtype2": "long & soft",
+        "type": "Noodle",
+        "type2": "long & soft",
         "imageDescription": ""
     },
     {
@@ -958,8 +958,8 @@
         "number": 2,
         "color": "white",
         "color2": "",
-        "subtype": "rev solid",
-        "subtype2": "",
+        "type": "rev solid",
+        "type2": "",
         "imageDescription": ""
     },
     {
@@ -967,8 +967,8 @@
         "number": 2,
         "color": "white",
         "color2": "",
-        "subtype": "tour x cg",
-        "subtype2": "",
+        "type": "tour x cg",
+        "type2": "",
         "imageDescription": ""
     },
     {
@@ -976,8 +976,8 @@
         "number": 3,
         "color": "orange",
         "color2": "",
-        "subtype": "softfli",
-        "subtype2": "",
+        "type": "softfli",
+        "type2": "",
         "imageDescription": ""
     },
     {
@@ -985,8 +985,8 @@
         "number": 3,
         "color": "white",
         "color2": "",
-        "subtype": "softfli",
-        "subtype2": "",
+        "type": "softfli",
+        "type2": "",
         "imageDescription": ""
     },
     {
@@ -994,8 +994,8 @@
         "number": 3,
         "color": "white",
         "color2": "",
-        "subtype": "tour x cg",
-        "subtype2": "",
+        "type": "tour x cg",
+        "type2": "",
         "imageDescription": ""
     },
     {
@@ -1003,8 +1003,8 @@
         "number": 4,
         "color": "white",
         "color2": "",
-        "subtype": "mid 100",
-        "subtype2": "",
+        "type": "mid 100",
+        "type2": "",
         "imageDescription": ""
     },
     {
@@ -1012,17 +1012,8 @@
         "number": 1,
         "color": "white",
         "color2": "",
-        "subtype": "Noodle",
-        "subtype2": "long & soft",
-        "imageDescription": ""
-    },
-    {
-        "manufacturer": "Maxfli",
-        "number": 2,
-        "color": "white",
-        "color2": "",
-        "subtype": "long & soft",
-        "subtype2": "",
+        "type": "Noodle",
+        "type2": "long & soft",
         "imageDescription": ""
     },
     {
@@ -1030,8 +1021,17 @@
         "number": 2,
         "color": "white",
         "color2": "",
-        "subtype": "long & soft",
-        "subtype2": "",
+        "type": "long & soft",
+        "type2": "",
+        "imageDescription": ""
+    },
+    {
+        "manufacturer": "Maxfli",
+        "number": 2,
+        "color": "white",
+        "color2": "",
+        "type": "long & soft",
+        "type2": "",
         "imageDescription": ""
     },
     {
@@ -1039,8 +1039,8 @@
         "number": 1,
         "color": "white",
         "color2": "",
-        "subtype": "gold",
-        "subtype2": "precision",
+        "type": "gold",
+        "type2": "precision",
         "imageDescription": ""
     },
     {
@@ -1048,8 +1048,8 @@
         "number": 1,
         "color": "white",
         "color2": "",
-        "subtype": "soft",
-        "subtype2": "",
+        "type": "soft",
+        "type2": "",
         "imageDescription": ""
     },
     {
@@ -1057,8 +1057,8 @@
         "number": 1,
         "color": "white",
         "color2": "",
-        "subtype": "rush",
-        "subtype2": "",
+        "type": "rush",
+        "type2": "",
         "imageDescription": ""
     },
     {
@@ -1066,8 +1066,8 @@
         "number": 1,
         "color": "white",
         "color2": "",
-        "subtype": "rush",
-        "subtype2": "",
+        "type": "rush",
+        "type2": "",
         "imageDescription": ""
     },
     {
@@ -1075,8 +1075,8 @@
         "number": 1,
         "color": "white",
         "color2": "",
-        "subtype": "gold ribbon",
-        "subtype2": "",
+        "type": "gold ribbon",
+        "type2": "",
         "imageDescription": "Susan G. Kommen -- that bitch"
     },
     {
@@ -1084,8 +1084,8 @@
         "number": 1,
         "color": "white",
         "color2": "",
-        "subtype": "gold distance",
-        "subtype2": "",
+        "type": "gold distance",
+        "type2": "",
         "imageDescription": ""
     },
     {
@@ -1093,8 +1093,8 @@
         "number": 1,
         "color": "white",
         "color2": "",
-        "subtype": "",
-        "subtype2": "",
+        "type": "",
+        "type2": "",
         "imageDescription": "'Lionhead' with crest; Breast Cancer Ribbon"
     },
     {
@@ -1102,8 +1102,8 @@
         "number": 1,
         "color": "white",
         "color2": "",
-        "subtype": "Gold",
-        "subtype2": "",
+        "type": "Gold",
+        "type2": "",
         "imageDescription": ""
     },
     {
@@ -1111,8 +1111,8 @@
         "number": 2,
         "color": "white",
         "color2": "",
-        "subtype": "gold",
-        "subtype2": "",
+        "type": "gold",
+        "type2": "",
         "imageDescription": "Genoa City Baseball Logo; Richter's Sentry"
     },
     {
@@ -1120,8 +1120,8 @@
         "number": 2,
         "color": "white",
         "color2": "",
-        "subtype": "gold",
-        "subtype2": "",
+        "type": "gold",
+        "type2": "",
         "imageDescription": ""
     },
     {
@@ -1129,8 +1129,8 @@
         "number": 2,
         "color": "white",
         "color2": "",
-        "subtype": "gold",
-        "subtype2": "",
+        "type": "gold",
+        "type2": "",
         "imageDescription": ""
     },
     {
@@ -1138,8 +1138,8 @@
         "number": 3,
         "color": "white",
         "color2": "",
-        "subtype": "gold",
-        "subtype2": "precision",
+        "type": "gold",
+        "type2": "precision",
         "imageDescription": ""
     },
     {
@@ -1147,8 +1147,8 @@
         "number": 3,
         "color": "white",
         "color2": "",
-        "subtype": "rush",
-        "subtype2": "",
+        "type": "rush",
+        "type2": "",
         "imageDescription": ""
     },
     {
@@ -1156,8 +1156,8 @@
         "number": 4,
         "color": "white",
         "color2": "",
-        "subtype": "rush",
-        "subtype2": "",
+        "type": "rush",
+        "type2": "",
         "imageDescription": ""
     },
     {
@@ -1165,8 +1165,8 @@
         "number": 4,
         "color": "white",
         "color2": "",
-        "subtype": "gold",
-        "subtype2": "",
+        "type": "gold",
+        "type2": "",
         "imageDescription": "Coors Light Logo"
     },
     {
@@ -1174,8 +1174,8 @@
         "number": 1,
         "color": "white",
         "color2": "",
-        "subtype": "chrome soft",
-        "subtype2": "",
+        "type": "chrome soft",
+        "type2": "",
         "imageDescription": ""
     },
     {
@@ -1183,8 +1183,8 @@
         "number": 1,
         "color": "white",
         "color2": "",
-        "subtype": "max",
-        "subtype2": "",
+        "type": "max",
+        "type2": "",
         "imageDescription": ""
     },
     {
@@ -1192,8 +1192,8 @@
         "number": 1,
         "color": "white",
         "color2": "",
-        "subtype": "super soft",
-        "subtype2": "",
+        "type": "super soft",
+        "type2": "",
         "imageDescription": "Hammer and Open Ended Wrench Crossed"
     },
     {
@@ -1201,8 +1201,8 @@
         "number": 1,
         "color": "white",
         "color2": "",
-        "subtype": "super soft",
-        "subtype2": "",
+        "type": "super soft",
+        "type2": "",
         "imageDescription": ""
     },
     {
@@ -1210,8 +1210,8 @@
         "number": 1,
         "color": "white",
         "color2": "",
-        "subtype": "super soft",
-        "subtype2": "",
+        "type": "super soft",
+        "type2": "",
         "imageDescription": ""
     },
     {
@@ -1219,8 +1219,8 @@
         "number": 1,
         "color": "white",
         "color2": "",
-        "subtype": "e r c soft",
-        "subtype2": "diesel cheeks zfd",
+        "type": "e r c soft",
+        "type2": "diesel cheeks zfd",
         "imageDescription": ""
     },
     {
@@ -1228,8 +1228,8 @@
         "number": 1,
         "color": "white",
         "color2": "",
-        "subtype": "hex tour",
-        "subtype2": "",
+        "type": "hex tour",
+        "type2": "",
         "imageDescription": ""
     },
     {
@@ -1237,8 +1237,8 @@
         "number": 1,
         "color": "white",
         "color2": "",
-        "subtype": "warbird",
-        "subtype2": "",
+        "type": "warbird",
+        "type2": "",
         "imageDescription": ""
     },
     {
@@ -1246,8 +1246,8 @@
         "number": 1,
         "color": "white",
         "color2": "",
-        "subtype": "warbird",
-        "subtype2": "",
+        "type": "warbird",
+        "type2": "",
         "imageDescription": ""
     },
     {
@@ -1255,8 +1255,8 @@
         "number": 1,
         "color": "pink",
         "color2": "",
-        "subtype": "super soft",
-        "subtype2": "",
+        "type": "super soft",
+        "type2": "",
         "imageDescription": ""
     },
     {
@@ -1264,8 +1264,8 @@
         "number": 1,
         "color": "pink",
         "color2": "",
-        "subtype": "super soft",
-        "subtype2": "",
+        "type": "super soft",
+        "type2": "",
         "imageDescription": ""
     },
     {
@@ -1273,8 +1273,8 @@
         "number": 1,
         "color": "yellow",
         "color2": "",
-        "subtype": "e r c soft",
-        "subtype2": "",
+        "type": "e r c soft",
+        "type2": "",
         "imageDescription": ""
     },
     {
@@ -1282,8 +1282,8 @@
         "number": 1,
         "color": "red",
         "color2": "",
-        "subtype": "super soft",
-        "subtype2": "",
+        "type": "super soft",
+        "type2": "",
         "imageDescription": ""
     },
     {
@@ -1291,8 +1291,8 @@
         "number": 2,
         "color": "red",
         "color2": "",
-        "subtype": "super soft",
-        "subtype2": "",
+        "type": "super soft",
+        "type2": "",
         "imageDescription": ""
     },
     {
@@ -1300,8 +1300,8 @@
         "number": 2,
         "color": "white",
         "color2": "",
-        "subtype": "super soft",
-        "subtype2": "",
+        "type": "super soft",
+        "type2": "",
         "imageDescription": "Four Leaf Clover"
     },
     {
@@ -1309,8 +1309,8 @@
         "number": 2,
         "color": "white",
         "color2": "",
-        "subtype": "super soft",
-        "subtype2": "",
+        "type": "super soft",
+        "type2": "",
         "imageDescription": ""
     },
     {
@@ -1318,8 +1318,8 @@
         "number": 2,
         "color": "white",
         "color2": "",
-        "subtype": "super soft",
-        "subtype2": "",
+        "type": "super soft",
+        "type2": "",
         "imageDescription": ""
     },
     {
@@ -1327,8 +1327,8 @@
         "number": 2,
         "color": "white",
         "color2": "",
-        "subtype": "chrome tour",
-        "subtype2": "",
+        "type": "chrome tour",
+        "type2": "",
         "imageDescription": ""
     },
     {
@@ -1336,8 +1336,8 @@
         "number": 2,
         "color": "white",
         "color2": "",
-        "subtype": "hex tour",
-        "subtype2": "",
+        "type": "hex tour",
+        "type2": "",
         "imageDescription": ""
     },
     {
@@ -1345,8 +1345,8 @@
         "number": 2,
         "color": "white",
         "color2": "",
-        "subtype": "chrome soft x ls",
-        "subtype2": "",
+        "type": "chrome soft x ls",
+        "type2": "",
         "imageDescription": ""
     },
     {
@@ -1354,8 +1354,8 @@
         "number": 2,
         "color": "white",
         "color2": "",
-        "subtype": "diablo tour",
-        "subtype2": "",
+        "type": "diablo tour",
+        "type2": "",
         "imageDescription": ""
     },
     {
@@ -1363,8 +1363,8 @@
         "number": 3,
         "color": "white",
         "color2": "blue",
-        "subtype": "super soft",
-        "subtype2": "",
+        "type": "super soft",
+        "type2": "",
         "imageDescription": ""
     },
     {
@@ -1372,8 +1372,8 @@
         "number": 3,
         "color": "white",
         "color2": "",
-        "subtype": "super soft",
-        "subtype2": "",
+        "type": "super soft",
+        "type2": "",
         "imageDescription": ""
     },
     {
@@ -1381,8 +1381,8 @@
         "number": 3,
         "color": "white",
         "color2": "",
-        "subtype": "super soft",
-        "subtype2": "",
+        "type": "super soft",
+        "type2": "",
         "imageDescription": ""
     },
     {
@@ -1390,8 +1390,8 @@
         "number": 3,
         "color": "green",
         "color2": "",
-        "subtype": "super soft",
-        "subtype2": "",
+        "type": "super soft",
+        "type2": "",
         "imageDescription": ""
     },
     {
@@ -1399,8 +1399,8 @@
         "number": 3,
         "color": "orange",
         "color2": "",
-        "subtype": "super soft",
-        "subtype2": "",
+        "type": "super soft",
+        "type2": "",
         "imageDescription": ""
     },
     {
@@ -1408,8 +1408,8 @@
         "number": 3,
         "color": "white",
         "color2": "",
-        "subtype": "warbird",
-        "subtype2": "",
+        "type": "warbird",
+        "type2": "",
         "imageDescription": ""
     },
     {
@@ -1417,8 +1417,8 @@
         "number": 3,
         "color": "",
         "color2": "",
-        "subtype": "chrome soft",
-        "subtype2": "",
+        "type": "chrome soft",
+        "type2": "",
         "imageDescription": ""
     },
     {
@@ -1426,8 +1426,8 @@
         "number": 4,
         "color": "white",
         "color2": "",
-        "subtype": "hex control",
-        "subtype2": "",
+        "type": "hex control",
+        "type2": "",
         "imageDescription": ""
     },
     {
@@ -1435,8 +1435,8 @@
         "number": 4,
         "color": "white",
         "color2": "",
-        "subtype": "chrome soft",
-        "subtype2": "",
+        "type": "chrome soft",
+        "type2": "",
         "imageDescription": ""
     },
     {
@@ -1444,8 +1444,8 @@
         "number": 4,
         "color": "white",
         "color2": "",
-        "subtype": "chrome soft",
-        "subtype2": "",
+        "type": "chrome soft",
+        "type2": "",
         "imageDescription": ""
     },
     {
@@ -1453,8 +1453,8 @@
         "number": 4,
         "color": "white",
         "color2": "",
-        "subtype": "tour iZ",
-        "subtype2": "",
+        "type": "tour iZ",
+        "type2": "",
         "imageDescription": ""
     },
     {
@@ -1462,8 +1462,8 @@
         "number": 4,
         "color": "white",
         "color2": "",
-        "subtype": "warbird",
-        "subtype2": "",
+        "type": "warbird",
+        "type2": "",
         "imageDescription": ""
     },
     {
@@ -1471,8 +1471,8 @@
         "number": 4,
         "color": "white",
         "color2": "",
-        "subtype": "diablo",
-        "subtype2": "",
+        "type": "diablo",
+        "type2": "",
         "imageDescription": ""
     },
     {
@@ -1480,8 +1480,8 @@
         "number": 4,
         "color": "white",
         "color2": "",
-        "subtype": "diablo tour",
-        "subtype2": "",
+        "type": "diablo tour",
+        "type2": "",
         "imageDescription": ""
     },
     {
@@ -1489,8 +1489,8 @@
         "number": 4,
         "color": "white",
         "color2": "",
-        "subtype": "super soft",
-        "subtype2": "",
+        "type": "super soft",
+        "type2": "",
         "imageDescription": ""
     },
     {
@@ -1498,8 +1498,8 @@
         "number": 4,
         "color": "white",
         "color2": "",
-        "subtype": "super soft",
-        "subtype2": "",
+        "type": "super soft",
+        "type2": "",
         "imageDescription": ""
     },
     {
@@ -1507,8 +1507,8 @@
         "number": 4,
         "color": "red",
         "color2": "",
-        "subtype": "super soft",
-        "subtype2": "",
+        "type": "super soft",
+        "type2": "",
         "imageDescription": ""
     },
     {
@@ -1516,8 +1516,8 @@
         "number": 0,
         "color": "white",
         "color2": "",
-        "subtype": "distance +",
-        "subtype2": "",
+        "type": "distance +",
+        "type2": "",
         "imageDescription": ""
     },
     {
@@ -1525,8 +1525,8 @@
         "number": 0,
         "color": "yellow",
         "color2": "",
-        "subtype": "soft response",
-        "subtype2": "",
+        "type": "soft response",
+        "type2": "",
         "imageDescription": ""
     },
     {
@@ -1534,8 +1534,8 @@
         "number": 0,
         "color": "white",
         "color2": "blue",
-        "subtype": "speed soft",
-        "subtype2": "",
+        "type": "speed soft",
+        "type2": "",
         "imageDescription": ""
     },
     {
@@ -1543,8 +1543,8 @@
         "number": 0,
         "color": "white",
         "color2": "",
-        "subtype": "speed soft",
-        "subtype2": "",
+        "type": "speed soft",
+        "type2": "",
         "imageDescription": ""
     },
     {
@@ -1552,8 +1552,8 @@
         "number": 0,
         "color": "white",
         "color2": "",
-        "subtype": "distance +",
-        "subtype2": "",
+        "type": "distance +",
+        "type2": "",
         "imageDescription": "Green 'TD' logo"
     },
     {
@@ -1561,8 +1561,8 @@
         "number": 1,
         "color": "yellow",
         "color2": "black",
-        "subtype": "",
-        "subtype2": "",
+        "type": "",
+        "type2": "",
         "imageDescription": ""
     },
     {
@@ -1570,8 +1570,8 @@
         "number": 1,
         "color": "yellow",
         "color2": "black",
-        "subtype": "",
-        "subtype2": "",
+        "type": "",
+        "type2": "",
         "imageDescription": ""
     },
     {
@@ -1579,8 +1579,8 @@
         "number": 1,
         "color": "yellow",
         "color2": "black",
-        "subtype": "",
-        "subtype2": "",
+        "type": "",
+        "type2": "",
         "imageDescription": ""
     },
     {
@@ -1588,8 +1588,8 @@
         "number": 1,
         "color": "yellow",
         "color2": "black",
-        "subtype": "",
-        "subtype2": "",
+        "type": "",
+        "type2": "",
         "imageDescription": ""
     },
     {
@@ -1597,8 +1597,8 @@
         "number": 1,
         "color": "yellow",
         "color2": "black",
-        "subtype": "",
-        "subtype2": "",
+        "type": "",
+        "type2": "",
         "imageDescription": ""
     },
     {
@@ -1606,8 +1606,8 @@
         "number": 1,
         "color": "yellow",
         "color2": "black",
-        "subtype": "",
-        "subtype2": "",
+        "type": "",
+        "type2": "",
         "imageDescription": ""
     },
     {
@@ -1615,8 +1615,8 @@
         "number": 1,
         "color": "yellow",
         "color2": "black",
-        "subtype": "",
-        "subtype2": "",
+        "type": "",
+        "type2": "",
         "imageDescription": ""
     },
     {
@@ -1624,8 +1624,8 @@
         "number": 1,
         "color": "yellow",
         "color2": "black",
-        "subtype": "",
-        "subtype2": "",
+        "type": "",
+        "type2": "",
         "imageDescription": ""
     },
     {
@@ -1633,8 +1633,8 @@
         "number": 1,
         "color": "yellow",
         "color2": "black",
-        "subtype": "",
-        "subtype2": "",
+        "type": "",
+        "type2": "",
         "imageDescription": ""
     },
     {
@@ -1642,8 +1642,8 @@
         "number": 1,
         "color": "yellow",
         "color2": "black",
-        "subtype": "",
-        "subtype2": "",
+        "type": "",
+        "type2": "",
         "imageDescription": ""
     },
     {
@@ -1651,8 +1651,8 @@
         "number": 1,
         "color": "yellow",
         "color2": "black",
-        "subtype": "",
-        "subtype2": "",
+        "type": "",
+        "type2": "",
         "imageDescription": ""
     },
     {
@@ -1660,8 +1660,8 @@
         "number": 1,
         "color": "yellow",
         "color2": "black",
-        "subtype": "",
-        "subtype2": "",
+        "type": "",
+        "type2": "",
         "imageDescription": ""
     },
     {
@@ -1669,8 +1669,8 @@
         "number": 1,
         "color": "yellow",
         "color2": "black",
-        "subtype": "",
-        "subtype2": "",
+        "type": "",
+        "type2": "",
         "imageDescription": ""
     },
     {
@@ -1678,8 +1678,8 @@
         "number": 1,
         "color": "yellow",
         "color2": "black",
-        "subtype": "",
-        "subtype2": "",
+        "type": "",
+        "type2": "",
         "imageDescription": ""
     },
     {
@@ -1687,8 +1687,8 @@
         "number": 1,
         "color": "yellow",
         "color2": "black",
-        "subtype": "",
-        "subtype2": "",
+        "type": "",
+        "type2": "",
         "imageDescription": ""
     },
     {
@@ -1696,8 +1696,8 @@
         "number": 1,
         "color": "yellow",
         "color2": "",
-        "subtype": "t p 5 x",
-        "subtype2": "",
+        "type": "t p 5 x",
+        "type2": "",
         "imageDescription": ""
     },
     {
@@ -1705,8 +1705,8 @@
         "number": 1,
         "color": "white",
         "color2": "",
-        "subtype": "t p 5 x",
-        "subtype2": "",
+        "type": "t p 5 x",
+        "type2": "",
         "imageDescription": ""
     },
     {
@@ -1714,8 +1714,8 @@
         "number": 1,
         "color": "white",
         "color2": "",
-        "subtype": "t p 5 x",
-        "subtype2": "",
+        "type": "t p 5 x",
+        "type2": "",
         "imageDescription": ""
     },
     {
@@ -1723,8 +1723,8 @@
         "number": 1,
         "color": "white",
         "color2": "",
-        "subtype": "t p 5 x",
-        "subtype2": "",
+        "type": "t p 5 x",
+        "type2": "",
         "imageDescription": ""
     },
     {
@@ -1732,8 +1732,8 @@
         "number": 1,
         "color": "white",
         "color2": "",
-        "subtype": "t p 5 x",
-        "subtype2": "",
+        "type": "t p 5 x",
+        "type2": "",
         "imageDescription": ""
     },
     {
@@ -1741,8 +1741,8 @@
         "number": 1,
         "color": "white",
         "color2": "green",
-        "subtype": "speed soft",
-        "subtype2": "",
+        "type": "speed soft",
+        "type2": "",
         "imageDescription": ""
     },
     {
@@ -1750,8 +1750,8 @@
         "number": 1,
         "color": "white",
         "color2": "",
-        "subtype": "distance +",
-        "subtype2": "",
+        "type": "distance +",
+        "type2": "",
         "imageDescription": ""
     },
     {
@@ -1759,8 +1759,8 @@
         "number": 1,
         "color": "white",
         "color2": "",
-        "subtype": "tour response",
-        "subtype2": "",
+        "type": "tour response",
+        "type2": "",
         "imageDescription": ""
     },
     {
@@ -1768,8 +1768,8 @@
         "number": 1,
         "color": "white",
         "color2": "",
-        "subtype": "tour preferred x",
-        "subtype2": "refinished",
+        "type": "tour preferred x",
+        "type2": "refinished",
         "imageDescription": ""
     },
     {
@@ -1777,8 +1777,8 @@
         "number": 1,
         "color": "white",
         "color2": "",
-        "subtype": "tour response",
-        "subtype2": "",
+        "type": "tour response",
+        "type2": "",
         "imageDescription": ""
     },
     {
@@ -1786,8 +1786,8 @@
         "number": 1,
         "color": "white",
         "color2": "",
-        "subtype": "r b z",
-        "subtype2": "",
+        "type": "r b z",
+        "type2": "",
         "imageDescription": ""
     },
     {
@@ -1795,8 +1795,8 @@
         "number": 2,
         "color": "yellow",
         "color2": "",
-        "subtype": "distance +",
-        "subtype2": "",
+        "type": "distance +",
+        "type2": "",
         "imageDescription": ""
     },
     {
@@ -1804,8 +1804,8 @@
         "number": 2,
         "color": "white",
         "color2": "",
-        "subtype": "distance +",
-        "subtype2": "",
+        "type": "distance +",
+        "type2": "",
         "imageDescription": ""
     },
     {
@@ -1813,8 +1813,8 @@
         "number": 2,
         "color": "white",
         "color2": "",
-        "subtype": "distance +",
-        "subtype2": "",
+        "type": "distance +",
+        "type2": "",
         "imageDescription": ""
     },
     {
@@ -1822,8 +1822,8 @@
         "number": 2,
         "color": "white",
         "color2": "",
-        "subtype": "distance +",
-        "subtype2": "",
+        "type": "distance +",
+        "type2": "",
         "imageDescription": ""
     },
     {
@@ -1831,8 +1831,8 @@
         "number": 2,
         "color": "white",
         "color2": "",
-        "subtype": "distance +",
-        "subtype2": "",
+        "type": "distance +",
+        "type2": "",
         "imageDescription": ""
     },
     {
@@ -1840,8 +1840,8 @@
         "number": 2,
         "color": "white",
         "color2": "",
-        "subtype": "distance +",
-        "subtype2": "",
+        "type": "distance +",
+        "type2": "",
         "imageDescription": ""
     },
     {
@@ -1849,8 +1849,8 @@
         "number": 2,
         "color": "white",
         "color2": "",
-        "subtype": "distance +",
-        "subtype2": "",
+        "type": "distance +",
+        "type2": "",
         "imageDescription": ""
     },
     {
@@ -1858,8 +1858,8 @@
         "number": 2,
         "color": "white",
         "color2": "green",
-        "subtype": "tour response",
-        "subtype2": "",
+        "type": "tour response",
+        "type2": "",
         "imageDescription": ""
     },
     {
@@ -1867,8 +1867,8 @@
         "number": 2,
         "color": "white",
         "color2": "green",
-        "subtype": "tour response",
-        "subtype2": "",
+        "type": "tour response",
+        "type2": "",
         "imageDescription": ""
     },
     {
@@ -1876,8 +1876,8 @@
         "number": 2,
         "color": "white",
         "color2": "green",
-        "subtype": "tour response",
-        "subtype2": "",
+        "type": "tour response",
+        "type2": "",
         "imageDescription": ""
     },
     {
@@ -1885,8 +1885,8 @@
         "number": 2,
         "color": "yellow",
         "color2": "",
-        "subtype": "tour response",
-        "subtype2": "",
+        "type": "tour response",
+        "type2": "",
         "imageDescription": ""
     },
     {
@@ -1894,8 +1894,8 @@
         "number": 2,
         "color": "white",
         "color2": "",
-        "subtype": "t p 5 x",
-        "subtype2": "",
+        "type": "t p 5 x",
+        "type2": "",
         "imageDescription": ""
     },
     {
@@ -1903,8 +1903,8 @@
         "number": 2,
         "color": "yellow",
         "color2": "",
-        "subtype": "t p 5",
-        "subtype2": "",
+        "type": "t p 5",
+        "type2": "",
         "imageDescription": ""
     },
     {
@@ -1912,8 +1912,8 @@
         "number": 3,
         "color": "yellow",
         "color2": "",
-        "subtype": "speed soft",
-        "subtype2": "",
+        "type": "speed soft",
+        "type2": "",
         "imageDescription": ""
     },
     {
@@ -1921,8 +1921,8 @@
         "number": 3,
         "color": "white",
         "color2": "orange",
-        "subtype": "t p 5",
-        "subtype2": "",
+        "type": "t p 5",
+        "type2": "",
         "imageDescription": ""
     },
     {
@@ -1930,8 +1930,8 @@
         "number": 3,
         "color": "white",
         "color2": "",
-        "subtype": "t p 5 x",
-        "subtype2": "",
+        "type": "t p 5 x",
+        "type2": "",
         "imageDescription": ""
     },
     {
@@ -1939,8 +1939,8 @@
         "number": 3,
         "color": "white",
         "color2": "",
-        "subtype": "t p 5 x",
-        "subtype2": "",
+        "type": "t p 5 x",
+        "type2": "",
         "imageDescription": ""
     },
     {
@@ -1948,8 +1948,8 @@
         "number": 3,
         "color": "white",
         "color2": "",
-        "subtype": "distance +",
-        "subtype2": "",
+        "type": "distance +",
+        "type2": "",
         "imageDescription": "Adidas Logo"
     },
     {
@@ -1957,8 +1957,8 @@
         "number": 3,
         "color": "white",
         "color2": "blue",
-        "subtype": "speed soft",
-        "subtype2": "",
+        "type": "speed soft",
+        "type2": "",
         "imageDescription": ""
     },
     {
@@ -1966,8 +1966,8 @@
         "number": 5,
         "color": "white",
         "color2": "",
-        "subtype": "t p 5",
-        "subtype2": "",
+        "type": "t p 5",
+        "type2": "",
         "imageDescription": ""
     },
     {
@@ -1975,8 +1975,8 @@
         "number": 5,
         "color": "white",
         "color2": "",
-        "subtype": "t p 5 x",
-        "subtype2": "",
+        "type": "t p 5 x",
+        "type2": "",
         "imageDescription": ""
     },
     {
@@ -1984,8 +1984,8 @@
         "number": 68,
         "color": "white",
         "color2": "",
-        "subtype": "t p 5",
-        "subtype2": "",
+        "type": "t p 5",
+        "type2": "",
         "imageDescription": "USA Aviator Sunglasses"
     },
     {
@@ -1993,8 +1993,8 @@
         "number": 33,
         "color": "yellow",
         "color2": "",
-        "subtype": "s",
-        "subtype2": "",
+        "type": "s",
+        "type2": "",
         "imageDescription": ""
     },
     {
@@ -2002,8 +2002,8 @@
         "number": 1,
         "color": "white",
         "color2": "",
-        "subtype": "pro v1",
-        "subtype2": "",
+        "type": "pro v1",
+        "type2": "",
         "imageDescription": ""
     },
     {
@@ -2011,8 +2011,8 @@
         "number": 1,
         "color": "white",
         "color2": "",
-        "subtype": "pro v1",
-        "subtype2": "",
+        "type": "pro v1",
+        "type2": "",
         "imageDescription": ""
     },
     {
@@ -2020,8 +2020,8 @@
         "number": 1,
         "color": "white",
         "color2": "",
-        "subtype": "pro v1",
-        "subtype2": "",
+        "type": "pro v1",
+        "type2": "",
         "imageDescription": ""
     },
     {
@@ -2029,8 +2029,8 @@
         "number": 1,
         "color": "white",
         "color2": "",
-        "subtype": "pro v1",
-        "subtype2": "",
+        "type": "pro v1",
+        "type2": "",
         "imageDescription": ""
     },
     {
@@ -2038,8 +2038,8 @@
         "number": 1,
         "color": "white",
         "color2": "",
-        "subtype": "pro v1",
-        "subtype2": "",
+        "type": "pro v1",
+        "type2": "",
         "imageDescription": ""
     },
     {
@@ -2047,8 +2047,8 @@
         "number": 1,
         "color": "white",
         "color2": "",
-        "subtype": "pro v1",
-        "subtype2": "",
+        "type": "pro v1",
+        "type2": "",
         "imageDescription": ""
     },
     {
@@ -2056,8 +2056,8 @@
         "number": 1,
         "color": "white",
         "color2": "",
-        "subtype": "pro v1",
-        "subtype2": "",
+        "type": "pro v1",
+        "type2": "",
         "imageDescription": ""
     },
     {
@@ -2065,8 +2065,8 @@
         "number": 1,
         "color": "yellow",
         "color2": "",
-        "subtype": "pro v1",
-        "subtype2": "",
+        "type": "pro v1",
+        "type2": "",
         "imageDescription": ""
     },
     {
@@ -2074,8 +2074,8 @@
         "number": 1,
         "color": "yellow",
         "color2": "",
-        "subtype": "pro v1",
-        "subtype2": "",
+        "type": "pro v1",
+        "type2": "",
         "imageDescription": ""
     },
     {
@@ -2083,8 +2083,8 @@
         "number": 1,
         "color": "white",
         "color2": "",
-        "subtype": "pro v1 x",
-        "subtype2": "",
+        "type": "pro v1 x",
+        "type2": "",
         "imageDescription": ""
     },
     {
@@ -2092,8 +2092,8 @@
         "number": 1,
         "color": "white",
         "color2": "",
-        "subtype": "pro v1 x",
-        "subtype2": "",
+        "type": "pro v1 x",
+        "type2": "",
         "imageDescription": ""
     },
     {
@@ -2101,8 +2101,8 @@
         "number": 1,
         "color": "red",
         "color2": "",
-        "subtype": "tru feel",
-        "subtype2": "",
+        "type": "tru feel",
+        "type2": "",
         "imageDescription": ""
     },
     {
@@ -2110,8 +2110,8 @@
         "number": 1,
         "color": "white",
         "color2": "",
-        "subtype": "tru feel",
-        "subtype2": "",
+        "type": "tru feel",
+        "type2": "",
         "imageDescription": "Albermarle Logo"
     },
     {
@@ -2119,8 +2119,8 @@
         "number": 1,
         "color": "white",
         "color2": "",
-        "subtype": "tru feel",
-        "subtype2": "",
+        "type": "tru feel",
+        "type2": "",
         "imageDescription": ""
     },
     {
@@ -2128,8 +2128,8 @@
         "number": 1,
         "color": "white",
         "color2": "",
-        "subtype": "tru feel",
-        "subtype2": "",
+        "type": "tru feel",
+        "type2": "",
         "imageDescription": ""
     },
     {
@@ -2137,8 +2137,8 @@
         "number": 1,
         "color": "white",
         "color2": "",
-        "subtype": "pro v1 392",
-        "subtype2": "x-out",
+        "type": "pro v1 392",
+        "type2": "x-out",
         "imageDescription": ""
     },
     {
@@ -2146,8 +2146,8 @@
         "number": 1,
         "color": "white",
         "color2": "",
-        "subtype": "professional 90",
-        "subtype2": "x-out",
+        "type": "professional 90",
+        "type2": "x-out",
         "imageDescription": ""
     },
     {
@@ -2155,8 +2155,8 @@
         "number": 1,
         "color": "white",
         "color2": "",
-        "subtype": "velocity",
-        "subtype2": "",
+        "type": "velocity",
+        "type2": "",
         "imageDescription": ""
     },
     {
@@ -2164,8 +2164,8 @@
         "number": 1,
         "color": "white",
         "color2": "",
-        "subtype": "dt solo",
-        "subtype2": "",
+        "type": "dt solo",
+        "type2": "",
         "imageDescription": ""
     },
     {
@@ -2173,8 +2173,8 @@
         "number": 1,
         "color": "white",
         "color2": "",
-        "subtype": "avx",
-        "subtype2": "",
+        "type": "avx",
+        "type2": "",
         "imageDescription": ""
     },
     {
@@ -2182,8 +2182,8 @@
         "number": 1,
         "color": "white",
         "color2": "",
-        "subtype": "nxt",
-        "subtype2": "",
+        "type": "nxt",
+        "type2": "",
         "imageDescription": ""
     },
     {
@@ -2191,8 +2191,8 @@
         "number": 1,
         "color": "white",
         "color2": "",
-        "subtype": "nxt distance",
-        "subtype2": "",
+        "type": "nxt distance",
+        "type2": "",
         "imageDescription": ""
     },
     {
@@ -2200,8 +2200,8 @@
         "number": 2,
         "color": "white",
         "color2": "",
-        "subtype": "pro v1",
-        "subtype2": "",
+        "type": "pro v1",
+        "type2": "",
         "imageDescription": "SIKA in Triangle"
     },
     {
@@ -2209,8 +2209,8 @@
         "number": 2,
         "color": "white",
         "color2": "",
-        "subtype": "pro v1",
-        "subtype2": "",
+        "type": "pro v1",
+        "type2": "",
         "imageDescription": "Junior Achievement and Triangle"
     },
     {
@@ -2218,8 +2218,8 @@
         "number": 2,
         "color": "white",
         "color2": "",
-        "subtype": "pro v1",
-        "subtype2": "",
+        "type": "pro v1",
+        "type2": "",
         "imageDescription": ""
     },
     {
@@ -2227,8 +2227,8 @@
         "number": 2,
         "color": "white",
         "color2": "",
-        "subtype": "pro v1",
-        "subtype2": "",
+        "type": "pro v1",
+        "type2": "",
         "imageDescription": ""
     },
     {
@@ -2236,8 +2236,8 @@
         "number": 2,
         "color": "white",
         "color2": "",
-        "subtype": "pro v1",
-        "subtype2": "",
+        "type": "pro v1",
+        "type2": "",
         "imageDescription": ""
     },
     {
@@ -2245,8 +2245,8 @@
         "number": 2,
         "color": "white",
         "color2": "",
-        "subtype": "pro v1 x",
-        "subtype2": "",
+        "type": "pro v1 x",
+        "type2": "",
         "imageDescription": ""
     },
     {
@@ -2254,8 +2254,8 @@
         "number": 2,
         "color": "white",
         "color2": "",
-        "subtype": "pro v1 x",
-        "subtype2": "",
+        "type": "pro v1 x",
+        "type2": "",
         "imageDescription": ""
     },
     {
@@ -2263,8 +2263,8 @@
         "number": 2,
         "color": "yellow",
         "color2": "",
-        "subtype": "dt tru soft",
-        "subtype2": "",
+        "type": "dt tru soft",
+        "type2": "",
         "imageDescription": ""
     },
     {
@@ -2272,8 +2272,8 @@
         "number": 2,
         "color": "white",
         "color2": "",
-        "subtype": "velocity",
-        "subtype2": "",
+        "type": "velocity",
+        "type2": "",
         "imageDescription": ""
     },
     {
@@ -2281,8 +2281,8 @@
         "number": 2,
         "color": "white",
         "color2": "",
-        "subtype": "tru feel",
-        "subtype2": "",
+        "type": "tru feel",
+        "type2": "",
         "imageDescription": ""
     },
     {
@@ -2290,8 +2290,8 @@
         "number": 2,
         "color": "white",
         "color2": "",
-        "subtype": "dt distance",
-        "subtype2": "",
+        "type": "dt distance",
+        "type2": "",
         "imageDescription": "The Five Star Service Guarantee Logo"
     },
     {
@@ -2299,8 +2299,8 @@
         "number": 3,
         "color": "white",
         "color2": "",
-        "subtype": "pro v1",
-        "subtype2": "",
+        "type": "pro v1",
+        "type2": "",
         "imageDescription": ""
     },
     {
@@ -2308,8 +2308,8 @@
         "number": 3,
         "color": "white",
         "color2": "",
-        "subtype": "pro v1",
-        "subtype2": "",
+        "type": "pro v1",
+        "type2": "",
         "imageDescription": "Troon North"
     },
     {
@@ -2317,8 +2317,8 @@
         "number": 3,
         "color": "white",
         "color2": "",
-        "subtype": "pro v1 392",
-        "subtype2": "",
+        "type": "pro v1 392",
+        "type2": "",
         "imageDescription": ""
     },
     {
@@ -2326,8 +2326,8 @@
         "number": 3,
         "color": "white",
         "color2": "",
-        "subtype": "pro v1 x",
-        "subtype2": "",
+        "type": "pro v1 x",
+        "type2": "",
         "imageDescription": ""
     },
     {
@@ -2335,8 +2335,8 @@
         "number": 3,
         "color": "white",
         "color2": "",
-        "subtype": "pro v1 x",
-        "subtype2": "",
+        "type": "pro v1 x",
+        "type2": "",
         "imageDescription": ""
     },
     {
@@ -2344,8 +2344,8 @@
         "number": 3,
         "color": "white",
         "color2": "",
-        "subtype": "pro v1 x",
-        "subtype2": "",
+        "type": "pro v1 x",
+        "type2": "",
         "imageDescription": ""
     },
     {
@@ -2353,8 +2353,8 @@
         "number": 3,
         "color": "red",
         "color2": "",
-        "subtype": "tru feel",
-        "subtype2": "",
+        "type": "tru feel",
+        "type2": "",
         "imageDescription": ""
     },
     {
@@ -2362,8 +2362,8 @@
         "number": 3,
         "color": "white",
         "color2": "",
-        "subtype": "tru feel",
-        "subtype2": "",
+        "type": "tru feel",
+        "type2": "",
         "imageDescription": ""
     },
     {
@@ -2371,8 +2371,8 @@
         "number": 3,
         "color": "white",
         "color2": "",
-        "subtype": "tru feel",
-        "subtype2": "",
+        "type": "tru feel",
+        "type2": "",
         "imageDescription": ""
     },
     {
@@ -2380,8 +2380,8 @@
         "number": 3,
         "color": "white",
         "color2": "",
-        "subtype": "hp distance lss",
-        "subtype2": "",
+        "type": "hp distance lss",
+        "type2": "",
         "imageDescription": ""
     },
     {
@@ -2389,8 +2389,8 @@
         "number": 3,
         "color": "white",
         "color2": "",
-        "subtype": "dt solo",
-        "subtype2": "",
+        "type": "dt solo",
+        "type2": "",
         "imageDescription": "Pioneer Athletics Logo"
     },
     {
@@ -2398,8 +2398,8 @@
         "number": 3,
         "color": "white",
         "color2": "",
-        "subtype": "dt tru soft",
-        "subtype2": "",
+        "type": "dt tru soft",
+        "type2": "",
         "imageDescription": "Albermarle Logo"
     },
     {
@@ -2407,8 +2407,8 @@
         "number": 4,
         "color": "yellow",
         "color2": "",
-        "subtype": "pro v1",
-        "subtype2": "",
+        "type": "pro v1",
+        "type2": "",
         "imageDescription": ""
     },
     {
@@ -2416,8 +2416,8 @@
         "number": 4,
         "color": "white",
         "color2": "",
-        "subtype": "pro v1",
-        "subtype2": "",
+        "type": "pro v1",
+        "type2": "",
         "imageDescription": "CocaCola Logo"
     },
     {
@@ -2425,8 +2425,8 @@
         "number": 4,
         "color": "white",
         "color2": "",
-        "subtype": "pro v1",
-        "subtype2": "",
+        "type": "pro v1",
+        "type2": "",
         "imageDescription": "JeldWen Logo"
     },
     {
@@ -2434,8 +2434,8 @@
         "number": 4,
         "color": "white",
         "color2": "",
-        "subtype": "pro v1",
-        "subtype2": "",
+        "type": "pro v1",
+        "type2": "",
         "imageDescription": "Kewaunee Logo"
     },
     {
@@ -2443,8 +2443,8 @@
         "number": 4,
         "color": "white",
         "color2": "",
-        "subtype": "pro v1",
-        "subtype2": "",
+        "type": "pro v1",
+        "type2": "",
         "imageDescription": ""
     },
     {
@@ -2452,8 +2452,8 @@
         "number": 4,
         "color": "white",
         "color2": "",
-        "subtype": "pro v1",
-        "subtype2": "",
+        "type": "pro v1",
+        "type2": "",
         "imageDescription": ""
     },
     {
@@ -2461,8 +2461,8 @@
         "number": 4,
         "color": "white",
         "color2": "",
-        "subtype": "pro v1",
-        "subtype2": "",
+        "type": "pro v1",
+        "type2": "",
         "imageDescription": ""
     },
     {
@@ -2470,8 +2470,8 @@
         "number": 4,
         "color": "white",
         "color2": "",
-        "subtype": "pro v1",
-        "subtype2": "",
+        "type": "pro v1",
+        "type2": "",
         "imageDescription": ""
     },
     {
@@ -2479,8 +2479,8 @@
         "number": 4,
         "color": "white",
         "color2": "",
-        "subtype": "pro v1",
-        "subtype2": "",
+        "type": "pro v1",
+        "type2": "",
         "imageDescription": ""
     },
     {
@@ -2488,8 +2488,8 @@
         "number": 4,
         "color": "white",
         "color2": "",
-        "subtype": "pro v1 x",
-        "subtype2": "",
+        "type": "pro v1 x",
+        "type2": "",
         "imageDescription": ""
     },
     {
@@ -2497,8 +2497,8 @@
         "number": 4,
         "color": "white",
         "color2": "",
-        "subtype": "pro v1 x",
-        "subtype2": "",
+        "type": "pro v1 x",
+        "type2": "",
         "imageDescription": ""
     },
     {
@@ -2506,8 +2506,8 @@
         "number": 4,
         "color": "white",
         "color2": "",
-        "subtype": "tru feel",
-        "subtype2": "",
+        "type": "tru feel",
+        "type2": "",
         "imageDescription": ""
     },
     {
@@ -2515,8 +2515,8 @@
         "number": 4,
         "color": "white",
         "color2": "",
-        "subtype": "tru feel",
-        "subtype2": "",
+        "type": "tru feel",
+        "type2": "",
         "imageDescription": ""
     },
     {
@@ -2524,8 +2524,8 @@
         "number": 4,
         "color": "white",
         "color2": "",
-        "subtype": "velocity",
-        "subtype2": "",
+        "type": "velocity",
+        "type2": "",
         "imageDescription": "Hobson Builders Logo"
     },
     {
@@ -2533,8 +2533,8 @@
         "number": 4,
         "color": "white",
         "color2": "",
-        "subtype": "velocity",
-        "subtype2": "",
+        "type": "velocity",
+        "type2": "",
         "imageDescription": ""
     },
     {
@@ -2542,8 +2542,8 @@
         "number": 4,
         "color": "white",
         "color2": "",
-        "subtype": "nxt tour",
-        "subtype2": "",
+        "type": "nxt tour",
+        "type2": "",
         "imageDescription": ""
     },
     {
@@ -2551,8 +2551,8 @@
         "number": 4,
         "color": "white",
         "color2": "",
-        "subtype": "nxt tour",
-        "subtype2": "",
+        "type": "nxt tour",
+        "type2": "",
         "imageDescription": ""
     },
     {
@@ -2560,8 +2560,8 @@
         "number": 4,
         "color": "white",
         "color2": "",
-        "subtype": "dt spin",
-        "subtype2": "",
+        "type": "dt spin",
+        "type2": "",
         "imageDescription": "Bell Atlantic Logo"
     },
     {
@@ -2569,8 +2569,8 @@
         "number": 4,
         "color": "white",
         "color2": "",
-        "subtype": "tour soft",
-        "subtype2": "",
+        "type": "tour soft",
+        "type2": "",
         "imageDescription": ""
     },
     {
@@ -2578,8 +2578,8 @@
         "number": 4,
         "color": "white",
         "color2": "",
-        "subtype": "tour series",
-        "subtype2": "",
+        "type": "tour series",
+        "type2": "",
         "imageDescription": ""
     },
     {
@@ -2587,8 +2587,8 @@
         "number": 8,
         "color": "white",
         "color2": "",
-        "subtype": "pro v1",
-        "subtype2": "",
+        "type": "pro v1",
+        "type2": "",
         "imageDescription": ""
     },
     {
@@ -2596,8 +2596,8 @@
         "number": 8,
         "color": "white",
         "color2": "",
-        "subtype": "pro v1",
-        "subtype2": "",
+        "type": "pro v1",
+        "type2": "",
         "imageDescription": "CW"
     },
     {
@@ -2605,8 +2605,8 @@
         "number": 5,
         "color": "white",
         "color2": "",
-        "subtype": "pro v1",
-        "subtype2": "",
+        "type": "pro v1",
+        "type2": "",
         "imageDescription": ""
     },
     {
@@ -2614,8 +2614,8 @@
         "number": 41,
         "color": "white",
         "color2": "",
-        "subtype": "pro v1",
-        "subtype2": "",
+        "type": "pro v1",
+        "type2": "",
         "imageDescription": "Sammy"
     },
     {
@@ -2623,8 +2623,8 @@
         "number": 77,
         "color": "white",
         "color2": "",
-        "subtype": "pro v1",
-        "subtype2": "",
+        "type": "pro v1",
+        "type2": "",
         "imageDescription": "Shiels Law"
     },
     {
@@ -2632,8 +2632,8 @@
         "number": 69,
         "color": "white",
         "color2": "",
-        "subtype": "pro v1",
-        "subtype2": "",
+        "type": "pro v1",
+        "type2": "",
         "imageDescription": ""
     },
     {
@@ -2641,8 +2641,8 @@
         "number": 88,
         "color": "white",
         "color2": "",
-        "subtype": "pro v1 x",
-        "subtype2": "",
+        "type": "pro v1 x",
+        "type2": "",
         "imageDescription": "Even George"
     },
     {
@@ -2650,8 +2650,8 @@
         "number": 99,
         "color": "white",
         "color2": "",
-        "subtype": "velocity",
-        "subtype2": "",
+        "type": "velocity",
+        "type2": "",
         "imageDescription": ""
     }
 ]

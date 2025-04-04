@@ -10,8 +10,8 @@ const GOLFBALL_SCHEMA = new Schema(
     color: { type: String, required: false, trim: true },
     color2: { type: String, required: false, trim: true },
     //   quantity: { type: s, required: false, trim: true },
-    subtype: { type: String, required: false, trim: true },
-    subtype2: { type: String, required: false, trim: true },
+    type: { type: String, required: false, trim: true },
+    type2: { type: String, required: false, trim: true },
     cost: { type: Number, required: false, trim: true },
     imageDescription: {
       type: String,
