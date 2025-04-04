@@ -8,15 +8,23 @@ ROUTER.get('/', async (req, res) => {
     const BALLS = await GOLFBALLS.find();
     res.status(200).json(BALLS);
   } catch (error) {
+    console.error(error);
+
     res.status(500).json('All Ball Error');
   }
 });
 
 ROUTER.get('/:id', async (req, res) => {
-  const ID = req.params.id;
-  const BALL = await GOLFBALLS.findOne({ _id: ID });
+  try {
+    const ID = req.params.id;
+    const BALL = await GOLFBALLS.findOne({ _id: ID });
 
-  res.status(200).json(BALL);
+    res.status(200).json(BALL);
+  } catch (error) {
+    console.error(error);
+
+    res.status(500).json('One Ball Error');
+  }
 });
 
 // CREATE
@@ -49,19 +57,26 @@ ROUTER.put('/update/:id', async (req, res) => {
     res.status(200).json(UPDATE_RESPONSE);
   } catch (error) {
     console.error(error);
-    res.status(500).json('Cannot UPDATE new ball.');
+    res.status(500).json('Cannot UPDATE new ball');
   }
 });
 
 // DELETE
 ROUTER.delete('/delete/:id', async (req, res) => {
-  const ID = req.params.id;
+  try {
+    const ID = req.params.id;
 
-  const DELETE_RESPONSE = await GOLFBALLS.deleteOne({ _id: ID });
+    const DELETE_RESPONSE = await GOLFBALLS.deleteOne({
+      _id: ID,
+    });
 
-  DELETE_RESPONSE.deletedCount === 0
-    ? res.status(500).json('Document NOT Deleted')
-    : res.status(200).json('Deleted Document');
+    DELETE_RESPONSE.deletedCount === 0
+      ? res.status(404).json('Could not locate document')
+      : res.status(200).json('Deleted Document');
+  } catch (error) {
+    console.error(error);
+    res.status(500).json('Document NOT Deleted');
+  }
 });
 
 module.exports = ROUTER;
