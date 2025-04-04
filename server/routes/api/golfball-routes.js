@@ -4,7 +4,12 @@ const GOLFBALLS = require('../../models/golfballs');
 
 // GET
 ROUTER.get('/', async (req, res) => {
-  res.status(200).json('Request was successful!');
+  try {
+    const BALLS = await GOLFBALLS.find();
+    res.status(200).json(BALLS);
+  } catch (error) {
+    res.status(500).json('All Ball Error');
+  }
 });
 
 ROUTER.get('/:id', async (req, res) => {
@@ -16,8 +21,6 @@ ROUTER.get('/:id', async (req, res) => {
 
 // CREATE
 ROUTER.post('/create', async (req, res) => {
-  // ADD AUTH
-
   try {
     const NEW_BALL = req.body;
     const CREATE_RES = await GOLFBALLS.create(NEW_BALL);
@@ -31,7 +34,6 @@ ROUTER.post('/create', async (req, res) => {
 
 // UPDATE
 ROUTER.put('/update/:id', async (req, res) => {
-  // ADD AUTH
   try {
     const ID = req.params.id;
     const UPDATED_BALL = req.body;
