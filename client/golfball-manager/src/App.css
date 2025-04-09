@@ -38,3 +38,19 @@ li {
 
   background-color: rgb(18, 196, 231);
 }
+
+.DeleteButton {
+  /* Layout */
+  margin-left: 5em;
+
+  padding-top: 1em;
+  padding-left: 3em;
+  padding-right: 3em;
+  padding-bottom: 1em;
+
+  /* Style */
+  border: solid thin black;
+  border-radius: 6px;
+
+  background-color: rgb(227, 48, 25);
+}
