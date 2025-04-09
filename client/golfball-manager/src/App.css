@@ -1,7 +1,40 @@
 #dashboard {
-  margin: 3em
+  margin-top: 3em;
+  margin-left: 3em;
+  margin-right: 3em;
+  margin-bottom: 3em;
 }
 
 li {
   padding-top: 4px
+}
+
+.ListItem {
+  /* Layout */
+  margin-top: 1em;
+  margin-left: 3em;
+  margin-right: 0em;
+  margin-bottom: 0em;
+
+  padding-left: 1em;
+
+  /* Border */
+  border: solid medium black;
+  border-radius: 6px;
+}
+
+.EditButton {
+  /* Layout */
+  margin-left: 5em;
+
+  padding-top: 1em;
+  padding-left: 3em;
+  padding-right: 3em;
+  padding-bottom: 1em;
+
+  /* Style */
+  border: solid thin black;
+  border-radius: 6px;
+
+  background-color: rgb(18, 196, 231);
 }
