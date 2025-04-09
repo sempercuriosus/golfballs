@@ -1,7 +1,15 @@
-function EditButton() {
+function EditButton({ Id: id }) {
+  const handleClick = () => {
+    console.log('Edit', id);
+  };
+
   return (
     <>
-      <button className='EditButton'>✏️</button>
+      <button
+        className='EditButton'
+        onClick={() => handleClick()}>
+        ✏️
+      </button>
     </>
   );
 }
