@@ -7,6 +7,7 @@ const GOLFBALL_SCHEMA = new Schema(
       default: () => new Types.ObjectId(),
     },
     manufacturer: { type: String, required: true, trim: true },
+    number: { type: Number, required: false, trim: true },
     color: { type: String, required: false, trim: true },
     color2: { type: String, required: false, trim: true },
     //   quantity: { type: s, required: false, trim: true },
