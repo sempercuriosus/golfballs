@@ -1,7 +1,15 @@
-function DeleteButton() {
+function DeleteButton({ Id: id }) {
+  const handleClick = () => {
+    console.log('Delete', id);
+  };
+
   return (
     <>
-      <button className='DeleteButton'>🗑️</button>
+      <button
+        className='DeleteButton'
+        onClick={() => handleClick()}>
+        🗑️
+      </button>
     </>
   );
 }

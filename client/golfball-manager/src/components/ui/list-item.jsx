@@ -5,18 +5,25 @@ function ListItem({ BALL: ball }) {
   return (
     <>
       <div
-        id={'ListItem-' + ball._id}
+        id={ball._id}
+        data-id={ball._id}
         className='ListItem'>
-        <p>
-          <strong>{ball.manufacturer} </strong> - #{ball.number}{' '}
-          <EditButton />
-          <DeleteButton />
-        </p>
+        <div>
+          <p>
+            <strong>{ball.manufacturer} </strong> - #
+            {ball.number}{' '}
+          </p>
 
-        <p>
-          {ball.color} {ball.color2} {ball.type} {ball.type2}{' '}
-          {ball.cost}
-        </p>
+          <p>
+            {ball.color} {ball.color2} {ball.type} {ball.type2}{' '}
+            {ball.cost}
+          </p>
+        </div>
+
+        <div>
+          <EditButton Id={ball._id} />
+          <DeleteButton Id={ball._id} />
+        </div>
       </div>
     </>
   );
