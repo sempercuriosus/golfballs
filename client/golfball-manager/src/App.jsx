@@ -1,6 +1,7 @@
 import './App.css';
+import 'bulma/css/bulma.css';
 import Dashboard from './components/dashboard';
-import BallList from './components/ball-list';
+import BallsDisplay from './components/balls-display';
 
 function App() {
   return (
@@ -8,10 +9,7 @@ function App() {
       <h4>Dashboard</h4>
 
       <Dashboard />
-
-      <h4>List Of Golf Balls</h4>
-
-      <BallList />
+      <BallsDisplay />
     </>
   );
 }
