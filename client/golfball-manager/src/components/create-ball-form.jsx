@@ -2,18 +2,20 @@ import { useState } from 'react';
 import links from '../config/links';
 
 function CreateBallForm() {
-  const { FORM_VALUES, SET_FORM_VALUES } = useState({
+  const EMPTY_OBJECT = {
     manufacturer: '',
-    number: '',
+    number: 0,
     color: '',
     color2: '',
     type: '',
     type2: '',
-    cost: '',
-    imageDescription: '',
+    cost: 0,
+    description: '',
     soldDate: '',
-    isSold: '',
-  });
+    isSold: false,
+  };
+
+  const [FORM_VALUES, SET_FORM_VALUES] = useState(EMPTY_OBJECT);
 
   document.addEventListener('keydown', (e) => {
     if (e.key === 'Escape') {
@@ -30,10 +32,17 @@ function CreateBallForm() {
     // maybe this should be on submit only, then it will be more user friendly if they accidentally close the modal it will not reset the values.
   };
 
+  const HANDLE_CHANGE = (e) => {
+    const { name, value } = e.target;
+
+    SET_FORM_VALUES((oldData) => ({
+      ...oldData,
+      [name]: value,
+    }));
+  };
+
   const HANDLE_SUBMIT = async (event) => {
     event.preventDefault();
-
-    alert('New Ball Was Submitted');
 
     const BALL = JSON.stringify({
       manufacturer: event.target.manufacturer.value || '',
@@ -49,19 +58,28 @@ function CreateBallForm() {
       isSold: event.target.isSold.checked || false,
     });
 
-    const RESPONSE = await fetch(links.createNewBallApi, {
-      method: 'POST',
-      body: BALL,
-      headers: {
-        'Content-type': 'application/json; charset=UTF-8',
-      },
-    });
+    try {
+      const RESPONSE = await fetch(links.createNewBallApi, {
+        method: 'POST',
+        body: BALL,
+        headers: {
+          'Content-type': 'application/json; charset=UTF-8',
+        },
+      });
 
-    if (!RESPONSE.ok) console.error('Response was not okay...');
+      alert('New Ball Was Submitted');
 
-    CLOSE_MODAL();
+      if (!RESPONSE.ok)
+        console.error('Response was not okay...');
 
-    return RESPONSE.json();
+      CLOSE_MODAL();
+
+      SET_FORM_VALUES(EMPTY_OBJECT);
+
+      return RESPONSE.json();
+    } catch (error) {
+      console.error(error);
+    }
   };
 
   return (
@@ -100,7 +118,8 @@ function CreateBallForm() {
                   name='manufacturer'
                   className='input'
                   autoFocus
-                  // value={FORM_VALUES.manufacturer}
+                  value={FORM_VALUES.manufacturer}
+                  onChange={HANDLE_CHANGE}
                 />
               </label>
 
@@ -116,6 +135,8 @@ function CreateBallForm() {
                   min={0}
                   max={100}
                   className='input'
+                  value={FORM_VALUES.number}
+                  onChange={HANDLE_CHANGE}
                 />
               </label>
 
@@ -129,6 +150,8 @@ function CreateBallForm() {
                   type='text'
                   name='color'
                   className='input'
+                  value={FORM_VALUES.color}
+                  onChange={HANDLE_CHANGE}
                 />
               </label>
 
@@ -142,6 +165,8 @@ function CreateBallForm() {
                   type='text'
                   name='color2'
                   className='input'
+                  value={FORM_VALUES.color2}
+                  onChange={HANDLE_CHANGE}
                 />
               </label>
 
@@ -155,6 +180,8 @@ function CreateBallForm() {
                   type='text'
                   name='type'
                   className='input'
+                  value={FORM_VALUES.type}
+                  onChange={HANDLE_CHANGE}
                 />
               </label>
 
@@ -168,6 +195,8 @@ function CreateBallForm() {
                   type='text'
                   name='type2'
                   className='input'
+                  value={FORM_VALUES.type2}
+                  onChange={HANDLE_CHANGE}
                 />
               </label>
 
@@ -184,6 +213,8 @@ function CreateBallForm() {
                   max={5}
                   placeholder={0}
                   className='input'
+                  value={FORM_VALUES.cost}
+                  onChange={HANDLE_CHANGE}
                 />
               </label>
 
@@ -198,6 +229,8 @@ function CreateBallForm() {
                   name='imageDescription'
                   className='input'
                   rows={2}
+                  value={FORM_VALUES.description}
+                  onChange={HANDLE_CHANGE}
                 />
               </label>
               {/* Sold Date */}
@@ -210,6 +243,8 @@ function CreateBallForm() {
                   type='date'
                   name='soldDate'
                   className='input'
+                  value={FORM_VALUES.soldDate}
+                  onChange={HANDLE_CHANGE}
                 />
               </label>
 
@@ -224,6 +259,8 @@ function CreateBallForm() {
                   type='checkbox'
                   name='isSold'
                   className='checkbox'
+                  value={FORM_VALUES.isSold}
+                  onChange={HANDLE_CHANGE}
                 />
               </label>
               {/* FOOTER */}
