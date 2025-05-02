@@ -17,14 +17,41 @@ function BallList() {
   };
 
   return (
-    <div id='BallList'>
-      {ballList.map((ball) => (
-        <ListItem
-          key={ball._id}
-          BALL={ball}
-        />
-      ))}
-    </div>
+    <>
+      <table
+        id='ball-list'
+        className='table'>
+        <thead>
+          <tr>
+            <th>Manufacturer</th>
+            <th>Number</th>
+            <th>Colors</th>
+            <th>Types</th>
+            <th>Cost</th>
+            <th>Actions</th>
+          </tr>
+        </thead>
+
+        <tbody>
+          {ballList.map((ball) => (
+            <ListItem
+              key={ball._id}
+              BALL={ball}
+            />
+          ))}
+        </tbody>
+
+        <tfoot>
+          <tr>
+            <th>Manufacturer</th>
+            <th>Number</th>
+            <th>Colors</th>
+            <th>Types</th>
+            <th>Cost</th>
+          </tr>
+        </tfoot>
+      </table>
+    </>
   );
 }
 
