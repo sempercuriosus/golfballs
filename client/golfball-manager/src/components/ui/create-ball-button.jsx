@@ -1,7 +1,5 @@
 function CreateBallButton() {
   const HANDLE_CLICK = () => {
-    //
-
     const MODAL = document.getElementById('create-ball-form');
     MODAL.classList.add('is-active');
   };
