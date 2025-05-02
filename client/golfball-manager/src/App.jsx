@@ -6,8 +6,6 @@ import BallsDisplay from './components/balls-display';
 function App() {
   return (
     <>
-      <h4>Dashboard</h4>
-
       <Dashboard />
       <BallsDisplay />
     </>

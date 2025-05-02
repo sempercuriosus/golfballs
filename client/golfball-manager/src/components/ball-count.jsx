@@ -17,7 +17,10 @@ function BallCount() {
 
   return (
     <>
-      <h4>The Current Number Of Balls {ballCount}</h4>
+      <h4 className='block title is-5'>
+        The Current Number Of Balls
+      </h4>
+      <p className='block'>{ballCount}</p>
     </>
   );
 }

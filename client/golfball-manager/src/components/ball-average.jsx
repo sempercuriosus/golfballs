@@ -16,7 +16,7 @@ function BallAverage() {
 
   return (
     <>
-      <h4>{ballAverage}</h4>
+      <h4 className='block title is-5'>{ballAverage}</h4>
     </>
   );
 }

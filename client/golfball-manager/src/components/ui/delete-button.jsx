@@ -6,7 +6,7 @@ function DeleteButton({ Id: id }) {
   return (
     <>
       <button
-        className='DeleteButton'
+        className='button is-danger is-light'
         onClick={() => handleClick()}>
         🗑️
       </button>
