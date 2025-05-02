@@ -120,6 +120,7 @@ function BallForm() {
                   autoFocus
                   value={FORM_VALUES.manufacturer}
                   onChange={HANDLE_CHANGE}
+                  required
                 />
               </label>
 
