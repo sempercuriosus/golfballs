@@ -4,12 +4,12 @@ import BallForm from './create-ball-form';
 
 function BallsDisplay() {
   return (
-    <>
-      <h4>List Of Golf Balls</h4>
+    <div id='ball-list-main'>
+      <h4 className='title is-5'>List Of Golf Balls</h4>
       <CreateButton />
       <BallForm />
       <BallList />
-    </>
+    </div>
   );
 }
 

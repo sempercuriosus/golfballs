@@ -6,7 +6,7 @@ function EditButton({ Id: id }) {
   return (
     <>
       <button
-        className='EditButton'
+        className='button is-warning is-light'
         onClick={() => handleClick()}>
         ✏️
       </button>

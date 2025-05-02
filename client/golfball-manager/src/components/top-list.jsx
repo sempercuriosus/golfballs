@@ -17,16 +17,14 @@ function BallList() {
 
   return (
     <>
-      <h4>
-        The Top Balls Are...
-        <ol>
-          {topBalls.map((ball, index) => (
-            <li key={index}>
-              {ball._id} - {ball.totalCount}
-            </li>
-          ))}
-        </ol>
-      </h4>
+      <h4 className='title is-5'>Top Balls ...</h4>
+      <ul className='block'>
+        {topBalls.map((ball, index) => (
+          <li key={index}>
+            {ball._id} - <strong>{ball.totalCount}</strong>
+          </li>
+        ))}
+      </ul>
     </>
   );
 }

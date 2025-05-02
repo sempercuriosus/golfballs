@@ -4,27 +4,25 @@ import DeleteButton from './delete-button';
 function ListItem({ BALL: ball }) {
   return (
     <>
-      <div
-        id={ball._id}
-        data-id={ball._id}
-        className='ListItem'>
-        <div>
-          <p>
-            <strong>{ball.manufacturer} </strong> - #
-            {ball.number}{' '}
-          </p>
+      <tr>
+        <td>
+          {' '}
+          <strong>{ball.manufacturer} </strong>
+        </td>
+        <td>{ball.number}</td>
+        <td>
+          {ball.color} {ball.color2}
+        </td>
+        <td>
+          {ball.type} {ball.type2}
+        </td>
+        <td>{ball.cost || 0}</td>
 
-          <p>
-            {ball.color} {ball.color2} {ball.type} {ball.type2}{' '}
-            {ball.cost}
-          </p>
-        </div>
-
-        <div>
+        <td className='buttons are-small'>
           <EditButton Id={ball._id} />
           <DeleteButton Id={ball._id} />
-        </div>
-      </div>
+        </td>
+      </tr>
     </>
   );
 }
