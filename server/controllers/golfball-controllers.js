@@ -3,7 +3,11 @@ const GOLFBALLS = require('../models/golfballs');
 // GET ALL BALLS
 async function getAllBalls(res) {
   try {
-    const BALLS = await GOLFBALLS.find();
+    const BALLS = await GOLFBALLS.find().sort({
+      manufacturer: 1,
+      number: 1,
+    });
+
     res.status(200).json(BALLS);
   } catch (error) {
     console.error(error);
