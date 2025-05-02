@@ -1,7 +1,7 @@
 import { useState } from 'react';
 import links from '../config/links';
 
-function CreateBallForm() {
+function BallForm() {
   const EMPTY_OBJECT = {
     manufacturer: '',
     number: 0,
@@ -284,5 +284,5 @@ function CreateBallForm() {
   );
 }
 
-export default CreateBallForm;
+export default BallForm;
 
